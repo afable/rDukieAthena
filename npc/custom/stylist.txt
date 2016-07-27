@@ -15,9 +15,16 @@
 
 //prontera,170,180,1	script	Stylist#custom_stylist	122,{
 prontera,168,182,1	script	Stylist#custom_stylist	122,{
+	
+	// handling data from talonRO where female hair styles go up to 87 but male hairstyles only go up to 69... server will crash
+	set @iMaxHair, getbattleflag("max_hair_style");
+	if (sex) {
+		@iMaxHair = 69;
+	}
+	
 	setarray .@Styles[1],
 		getbattleflag("max_cloth_color"),
-		getbattleflag("max_hair_style"),
+		@iMaxHair,
 		getbattleflag("max_hair_color");
 	setarray .@Look[1],
 		LOOK_CLOTHES_COLOR,
