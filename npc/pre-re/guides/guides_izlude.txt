@@ -19,7 +19,8 @@
 //	-Thanks to $ephiroth.
 //============================================================
 
-izlude,121,87,6	script	Guide#iz	105,{
+//izlude,121,87,6	script	Guide#iz	105,{
+izlude,133,113,6	script	Guide#iz	105,{
 	cutin "prt_soldier",2;
 	mes "[Izlude Guide]";
 	mes "Welcome to Izlude,";
