@@ -16,9 +16,9 @@
 //= 1.4 Compressed Script, Added limit use option [Stolao]
 //=	Changed set -> setarray, Improved text with F_InsertPlural
 //============================================================
-prontera,150,193,4	script	Reset Girl	124,{
-	//	 		Skills,	Stats,	Both,	Limit
-	setarray .@Reset,	5000,	5000,	9000,	0;
+prontera,150,193,5	script	Reset Girl	124,{
+	//	 				Skills,	Stats,	Both,	Limit
+	setarray .@Reset,	443,	887,	1111,	0;
 	mes "[Reset Girl]";
 	if(.@Reset[3] && reset_limit > .@Reset[3]) {
 		mes "Sorry you can only reset "+callfunc("F_InsertPlural",.@Reset[3],"time")+" in your life.";

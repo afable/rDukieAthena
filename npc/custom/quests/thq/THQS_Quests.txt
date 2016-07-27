@@ -665,7 +665,8 @@ N_QuestStart:
 }
 ///////Job list 7///////
 //7-1 goes to 8-1 using callfunc;
-prontera,123,208,6	script	Little Girl#thq	717,{
+//prontera,123,208,6	script	Little Girl#thq	717,{
+prontera,124,207,6	script	Little Girl#thq	717,{
 	if (seven_qset == 1 && countitem(531) > 4) goto N_QuestComp;
 	if (seven_qset == 1) goto N_QuestStart;
 	if (eight_qset == 1) goto N_QuestStart2;

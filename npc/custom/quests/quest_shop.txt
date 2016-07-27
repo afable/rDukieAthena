@@ -25,7 +25,8 @@
 // Shop NPCs -- supplying no argument displays entire menu.
 //	callfunc "qshop"{,<shop ID>{,<shop ID>{,...}}};
 //============================================================
-prontera,164,203,6	script	Quest Shop#1	998,{ callfunc "qshop"; }
+//prontera,164,203,6	script	Quest Shop#1	998,{ callfunc "qshop"; }
+prontera,167,199,6	script	Quest Shop#1	998,{ callfunc "qshop"; }
 
 
 // Script Core

@@ -11417,7 +11417,8 @@ OnTouch:
 
 // Rogue Guild Investigation
 //============================================================ 
-prontera,163,204,3	script	Man from Morroc	99,{
+//prontera,163,204,3	script	Man from Morroc	99,{
+prontera,167,208,7	script	Man from Morroc	99,{
 	if (rumour_nd == 0) {
 		mes "[Morroc Traveler]";
 		mes "Ah, it's very nice and";
