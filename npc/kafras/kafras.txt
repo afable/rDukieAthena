@@ -230,7 +230,8 @@ pay_arche,55,123,0	script	Kafra Employee::kaf_payon3	4_F_KAFRA1,{
 
 // Prontera
 //============================================================
-prontera,152,326,3	script	Kafra Employee::kaf_prontera	112,{
+//prontera,152,326,3	script	Kafra Employee::kaf_prontera	112,{
+prontera,159,187,3	script	Kafra Employee::kaf_prontera	112,{
 	cutin "kafra_06",2;
 	callfunc "F_KafSet";
 	mes "[Kafra Employee]";
@@ -240,8 +241,10 @@ prontera,152,326,3	script	Kafra Employee::kaf_prontera	112,{
 	mes "always here to support";
 	mes "you. So how can I be";
 	mes "of service today?";
-	callfunc "F_Kafra",5,0,0,40,800;
-	savepoint "prontera",157,327;
+	//callfunc "F_Kafra",5,0,0,40,800;
+	callfunc "F_Kafra",5,0,0,1,800; // changed storage cost from 40z to 1z
+	//savepoint "prontera",157,327;
+	savepoint "prontera",155,183; // old coords 157,327
 	callfunc "F_KafEnd",0,1,"in the city of Prontera";
 }
 
@@ -417,7 +420,7 @@ cmd_fild07,136,134,4	script	Kafra Employee::kaf_cmd_fild07	721,{
 	if (checkre(0))
 		savepoint strnpcinfo(4),129,97;
 	else
-		savepoint "izlude",94,103;
+		savepoint "izlude",126,145; // old coords 94, 103
 	callfunc "F_KafEnd",0,1,"in the city of Izlude";
 }
 
