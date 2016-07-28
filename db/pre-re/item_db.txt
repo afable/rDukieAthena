@@ -2302,9 +2302,6 @@
 5123,Ulle_Cap,Ulle's Cap,4,30000,,500,,3,,1,0xFFFFFFFE,7,2,256,,65,1,254,{ bonus bDex,2; bonus bAgi,1; },{},{}
 //5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,0,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bMdef,10; bonus bInt,2; bonus bMaxSP,50; },{},{}
 5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,1,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bStr,20; bonus bDex,20; bonus bAgi,20; bonus bMdef,10; bAspdRate,getrefine()*2; bonus bMaxSP,50; bonus3 bAutoSpell,"SM_BASH",6,20; },{},{}
-
-bonus bInt,20; bonus bDex,20; bonus bLuk,20; bonus bMdef,10; bonus bAspdRate,getrefine()*2; bonus4 bAutoSpell,"SA_DELUGE",2,30,0; bonus3 bAutoSpell,"WZ_WATERBALL",3,20;
-
 5125,Kiss_Of_Angel,Angel's Kiss,4,10000,,300,,3,,1,0x00000001,7,2,256,,50,1,255,{ bonus bSPrecovRate,5; },{},{}
 5126,Morpheus's_Hood,Morpheus's Hood,4,30000,,200,,1,,0,0xFFFFFFFE,7,2,256,,33,1,256,{ bonus bInt,2; },{},{}
 5127,Morrigane's_Helm,Morrigane's Helm,4,30000,,500,,4,,0,0xFFFFFFFE,7,2,256,,61,1,257,{ bonus bLuk,2; bonus bBaseAtk,3; },{},{}
