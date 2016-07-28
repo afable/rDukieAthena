@@ -179,7 +179,7 @@ MVP1-3id: The Item ID of the MVP drop goes here. Maximum of 3 items.
 
 ---------------------------------------
 
-MVP1-3per: The rate of the MVP item being dropped, n/10000.
+MVP1-3per: The rate of the MVP item being dropped, n/100.
 
 ---------------------------------------
 
@@ -187,7 +187,7 @@ Drop1-9id: The Item ID of the drop goes here. Maximum of 9 items.
 
 ---------------------------------------
 
-Drop1-9per: The rate of the item being dropped, n/10000.
+Drop1-9per: The rate of the item being dropped, n/100.
 
 ---------------------------------------
 
@@ -195,6 +195,6 @@ DropCardid: The Item ID of the monster's card (if any).
 
 ---------------------------------------
 
-DropCardper: The rate of the card being dropped, n/10000.
+DropCardper: The rate of the card being dropped, n/100.
 
 ---------------------------------------
