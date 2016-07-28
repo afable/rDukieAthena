@@ -2734,7 +2734,7 @@
 5554,Octopus_Hat,Octopus Hat,4,20,,200,,3,,0,0xFFFFFFFF,7,2,256,,20,1,538,{ bonus3 bAutoSpell,"SM_PROVOKE",5,10; bonus bUnbreakableHelm,0; },{},{}
 5555,Leaf_Cat_Hat,Leaf Cat Hat,4,20,,100,,3,,0,0xFFFFFFFF,7,2,256,,0,1,539,{ bonus bAgi,1; bonus3 bAutoSpellWhenHit,"AL_HEAL",3,10; },{},{}
 //5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,0,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,1; bonus3 bAutoSpell,"WZ_FROSTNOVA",1,30; },{},{}
-5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,1,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,6; bonus bDex,5; bonus bVit,10; bonus bAgi,10; bonus bLuk,20; bonus bMdef,10; bonus3 bAutoSpell,"WZ_FROSTNOVA",1,30; },{},{}
+5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,1,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,6; bons bInt,20; bonus bDex,20; bonus bLuk,20; bonus bMdef,10; bonus bAspdRate,getrefine()*2; bonus4 bAutoSpell,"SA_DELUGE",2,30,0; bonus3 bAutoSpell,"WZ_WATERBALL",3,20; },{},{}
 5557,Wild_Rose_Hat,Wild Rose Hat,4,20,,500,,6,,1,0xFFFFFFFE,7,2,256,,20,1,541,{ bonus bAgi,3; },{},{}
 5558,Saci_Hat,Luxury Hat,4,20,,100,,6,,1,0xFFFFFFFF,7,2,256,,30,1,542,{ bonus3 bAddMonsterDropItem,510,RC_Plant,500; },{},{}
 5559,Piece_Of_White_Cloth_E,Piece Of White Cloth,4,0,,0,,1,,0,0xFFFFFFFF,7,2,256,,0,1,543,{},{},{}
