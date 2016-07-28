@@ -1320,7 +1320,7 @@
 2405,Boots,Boots,4,18000,,600,,4,,0,0x016E5CEA,7,2,64,,0,1,0,{},{},{}
 2406,Boots_,Boots,4,18000,,600,,4,,1,0x016E5CEA,7,2,64,,0,1,0,{},{},{}
 2407,Chrystal_Pumps,Crystal Pumps,4,20,,100,,0,,0,0xFFFFFFFE,7,0,64,,0,1,0,{ bonus bMdef,10; bonus bLuk,5; },{},{}
-2408,Cuffs,Shackles,4,5000,,3000,,3,,0,0xFFFFFFFF,7,2,64,,0,1,0,{},{},{}
+2408,Cuffs,Shackles,4,5000,,3000,,3,,1,0xFFFFFFFF,7,2,64,,0,1,0,{},{},{}
 2409,Spiky_Heel,High Heels,4,8500,,600,,2,,0,0xFFFFFFFE,7,2,64,,0,1,0,{ bonus bMdef,5; },{},{}
 2410,Sleipnir,Sleipnir,4,20,,3500,,5,,0,0xFFFFFFFF,7,2,64,,94,0,0,{ bonus bMdef,10; bonus bMaxHPrate,20; bonus bMaxSPrate,20; bonus bSPrecovRate,15; bonus bSpeedRate,25; },{},{}
 2411,Grave,Greaves,4,48000,,750,,5,,0,0x00004080,7,2,64,,65,1,0,{},{},{}
@@ -1474,7 +1474,7 @@
 2652,Cursed_Lucky_Brooch,Goddess of Fortune's Cursed Brooch,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,40,0,0,{ bonus bCritical,6; bonus2 bAddEff2,Eff_Curse,50; },{},{}
 2653,Sacrifice_Ring,Sacrifice Ring,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,90,0,0,{},{},{}
 2654,Shinobi's_Sash,Shinobi Sash,4,20000,,300,,1,,0,0x02021040,7,2,136,,30,0,0,{ bonus bStr,1; bonus bAgi,1; bonus bMdef,1; },{},{}
-2655,Bloody_Iron_Ball,Bloodied Shackle Ball,4,50000,,4000,,0,,0,0xFFFFFFFE,7,2,136,,1,0,0,{},{},{}
+2655,Bloody_Iron_Ball,Bloodied Shackle Ball,4,50000,,4000,,0,,1,0xFFFFFFFE,7,2,136,,1,0,0,{},{},{}
 2656,Hyper_Changer,Armor Charm,4,20000,,1000,,1,,0,0x000654E2,7,2,136,,1,0,0,{ bonus bMaxHP,50; },{},{}
 2657,Lab_Passport,Laboratory Permit,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,1,0,0,{},{},{}
 2658,Nile_Rose_,Nile Rose,4,2,,100,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bMaxHP,10; },{},{}
