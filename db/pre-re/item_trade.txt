@@ -468,7 +468,7 @@
 1576,499,100	// Glorious Tablet
 1577,499,100	// Glorious Apocalypse
 1640,499,100	// Glorious Arc Wand
-1641,499,100	// Glorious Cure Wand
+1641,0,100	// Glorious Cure Wand
 1743,499,100	// Glorious Hunter Bow
 1826,499,100	// Glorious Claw
 1827,499,100	// Glorious Fist
