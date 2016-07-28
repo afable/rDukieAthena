@@ -2301,7 +2301,7 @@
 5122,Magni_Cap,Magni's Cap,4,30000,,1000,,5,,0,0xFFFFFFFE,7,2,256,,65,1,250,{ bonus bStr,2; },{},{}
 5123,Ulle_Cap,Ulle's Cap,4,30000,,500,,3,,1,0xFFFFFFFE,7,2,256,,65,1,254,{ bonus bDex,2; bonus bAgi,1; },{},{}
 //5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,0,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bMdef,10; bonus bInt,2; bonus bMaxSP,50; },{},{}
-5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,1,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bStr,20; bonus bDex,20; bonus bAgi,20; bonus bMdef,10; bonus bAspdRate,getrefine()*2; bonus bMaxSP,50; bonus3 bAutoSpell,"SM_BASH",6,20; },{},{}
+5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,1,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bStr,getrefine()*2; bonus bDex,getrefine()*2; bonus bFlee2,getrefine()*3; bonus bMdef,getrefine(); bonus bAspd,getrefine(); bonus bMaxSP,50; bonus3 bAutoSpell,"SM_BASH",6,20; },{},{}
 5125,Kiss_Of_Angel,Angel's Kiss,4,10000,,300,,3,,1,0x00000001,7,2,256,,50,1,255,{ bonus bSPrecovRate,5; },{},{}
 5126,Morpheus's_Hood,Morpheus's Hood,4,30000,,200,,1,,0,0xFFFFFFFE,7,2,256,,33,1,256,{ bonus bInt,2; },{},{}
 5127,Morrigane's_Helm,Morrigane's Helm,4,30000,,500,,4,,0,0xFFFFFFFE,7,2,256,,61,1,257,{ bonus bLuk,2; bonus bBaseAtk,3; },{},{}
@@ -2734,7 +2734,7 @@
 5554,Octopus_Hat,Octopus Hat,4,20,,200,,3,,0,0xFFFFFFFF,7,2,256,,20,1,538,{ bonus3 bAutoSpell,"SM_PROVOKE",5,10; bonus bUnbreakableHelm,0; },{},{}
 5555,Leaf_Cat_Hat,Leaf Cat Hat,4,20,,100,,3,,0,0xFFFFFFFF,7,2,256,,0,1,539,{ bonus bAgi,1; bonus3 bAutoSpellWhenHit,"AL_HEAL",3,10; },{},{}
 //5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,0,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,1; bonus3 bAutoSpell,"WZ_FROSTNOVA",1,30; },{},{}
-5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,1,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,20; bonus bDex,20; bonus bLuk,20; bonus bMdef,10; bonus bAspdRate,getrefine()*2; bonus4 bAutoSpell,"SA_DELUGE",2,30,0; bonus3 bAutoSpell,"WZ_WATERBALL",3,20; },{},{}
+5556,Fur_Seal_Hat,Seal Hat,4,20,,500,,3,,1,0xFFFFFFFF,7,2,769,,55,1,540,{ bonus bInt,getrefine()*2; bonus bDex,getrefine()*2; bonus bLuk,getrefine()*2; bonus bMdef,getrefine(); bonus bAspd,getrefine(); bonus4 bAutoSpell,"SA_DELUGE",2,30,0; bonus3 bAutoSpell,"WZ_WATERBALL",3,20; },{},{}
 5557,Wild_Rose_Hat,Wild Rose Hat,4,20,,500,,6,,1,0xFFFFFFFE,7,2,256,,20,1,541,{ bonus bAgi,3; },{},{}
 5558,Saci_Hat,Luxury Hat,4,20,,100,,6,,1,0xFFFFFFFF,7,2,256,,30,1,542,{ bonus3 bAddMonsterDropItem,510,RC_Plant,500; },{},{}
 5559,Piece_Of_White_Cloth_E,Piece Of White Cloth,4,0,,0,,1,,0,0xFFFFFFFF,7,2,256,,0,1,543,{},{},{}
