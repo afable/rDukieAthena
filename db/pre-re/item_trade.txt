@@ -626,7 +626,7 @@
 1547,507,100	// Mace Of Madness
 1563,507,100	// Sage's Diary
 1578,507,100	// Book Of Prayer
-1580,507,100	// Giant Encyclopedia
+1580,0,100	// Giant Encyclopedia
 1623,507,100	// Mighty Staff
 1642,507,100	// Staff Of Darkness
 1728,507,100	// Ballista
