@@ -316,7 +316,7 @@
 1272,475,100	// Scratcher
 1423,475,100	// Pole XO
 1536,475,100	// Good Morning Star
-1566,475,100	// Diary Of Great Basil
+1566,0,100	// Diary Of Great Basil
 1627,475,100	// Staffy
 1735,475,100	// Kkakkung
 1921,475,100	// Gun Moon Gom
@@ -402,8 +402,8 @@
 1482,467,100	// Assaulter Lance
 1542,467,100	// Valorous Battlefield Morning Star
 1543,0,100	// Brave Battlefield Morning Star
-1574,467,100	// Brave Battle Strategy Book
-1575,467,100	// Valorous Battle Strategy Book
+1574,0,100	// Brave Battle Strategy Book
+1575,0,100	// Valorous Battle Strategy Book
 1632,467,100	// Warlock's Magic Wand
 1633,467,100	// Warlock's Battle Wand
 1634,467,100	// Strong Recovery Wand
@@ -465,8 +465,8 @@
 1426,499,100	// Glorious Spear
 1486,499,100	// Glorious Lance
 1546,499,100	// Glorious Morning Star
-1576,499,100	// Glorious Tablet
-1577,499,100	// Glorious Apocalypse
+1576,0,100	// Glorious Tablet
+1577,0,100	// Glorious Apocalypse
 1640,499,100	// Glorious Arc Wand
 1641,0,100	// Glorious Cure Wand
 1743,499,100	// Glorious Hunter Bow
@@ -624,8 +624,8 @@
 1430,507,100	// Pike
 1487,507,100	// Lance
 1547,507,100	// Mace Of Madness
-1563,507,100	// Sage's Diary
-1578,507,100	// Book Of Prayer
+1563,0,100	// Sage's Diary
+1578,0,100	// Book Of Prayer
 1580,0,100	// Giant Encyclopedia
 1623,507,100	// Mighty Staff
 1642,507,100	// Staff Of Darkness
@@ -1447,7 +1447,7 @@
 1388,507,100	// Two-Handed Axe
 1428,475,100	// Long Horn
 1429,475,100	// Hunting Spear
-1579,475,100	// Book of the Dead
+1579,0,100	// Book of the Dead
 1644,475,100	// Staff of Piercing
 1645,475,100	// Lich's Bone Wand
 1749,499,100	// Tourist Bow
