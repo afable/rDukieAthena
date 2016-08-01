@@ -477,7 +477,7 @@ G6: Go("schg_dun01",200,124);
 //    	"Wolfchev's Laboratory",I12;
 
 menu	"Endless Tower",I4, "Nidhoggur's Nest",I7,
-    	"Orc's Memory",I10, "Sealed Shrine",I11,
+    	"Orc's Memory",I10, "Sealed Shrine",I11;
 
 I1: Restrict("RE");
 	Go("ma_scene01",172,175);
