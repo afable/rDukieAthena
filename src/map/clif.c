@@ -11102,10 +11102,15 @@ void clif_parse_Broadcast(int fd, struct map_session_data* sd) {
 /// 009f <id>.L (CZ_ITEM_PICKUP)
 /// 0362 <id>.L (CZ_ITEM_PICKUP2)
 /// There are various variants of this packet, some of them have padding between fields.
+// @arealoot variation of pickup items using skill_greed
 void clif_parse_TakeItem(int fd, struct map_session_data *sd)
 {
 	struct flooritem_data *fitem;
 	int map_object_id;
+
+	// use skill_greed to arealoot and store the total sum of returned values 
+	int skill_greed(struct block_list *bl, va_list ap);
+	int i_returnCount = 0;
 
 	map_object_id = RFIFOL(fd,packet_db[sd->packet_ver][RFIFOW(fd,0)].pos[0]);
 
@@ -11122,10 +11127,17 @@ void clif_parse_TakeItem(int fd, struct map_session_data *sd)
 
 		if (pc_cant_act(sd))
 			break;
-
-		if (!pc_takeitem(sd, fitem))
+		
+		// if item was not successfully picked up, break to fail packet
+		if (!pc_takeitem(sd, fitem)) {
 			break;
+		}
 
+		// arealoot other items in skill_greed range of item just successfully picked up & store sum of returned values
+		i_returnCount = map_foreachinrange(skill_greed,&sd->bl,3,BL_ITEM,&sd->bl);
+		// ShowDebug("i_returnCount=%d", debug_i);
+
+		// successfully picked up all items, return.
 		return;
 	} while (0);
 	// Client REQUIRES a fail packet or you can no longer pick items.
