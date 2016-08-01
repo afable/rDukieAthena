@@ -1,0 +1,59 @@
+unwarpable locations for pre-renewal clients:
+	- Towns:
+		- Brasils
+		- Dewata
+		- Eclage
+		- El Dicastes
+		- Malangdo
+		- Malaya
+		- Mora
+	
+	- Fields:
+		- Bifrost Fields
+		- Brasilis Fields
+		- Dewata Fields
+		- Eclage Fields
+		- El Dicastes Fields
+		- Malaya Fields
+	
+	- Dungeons:
+		- Bifrost Tower
+		- BioLabs 4 (1-3 warpable)
+		- Brasilis Dungeon
+		- Byalan 6 (1-5 warpable)
+		- Dewata Dungeon
+		- Malangdo Dungeon
+		- Pyramids Basement 1,2 Nightmare Mode (normal modes warpable)
+		- Scaraba Hole
+
+	- Guild Dungeons:
+		- Baldur
+			- Baldur F2 (F1 warpable)			
+			- Hall of Abyss
+		- Luina
+			- Luina F2
+			- Hall of Abyss
+		- Valyrie
+			- F2
+			- Hall of Abyss
+		- Britonia
+			- F2
+			- Hall of Abyss
+	- Instances:
+		- Bakonawa Lake
+		- Bangungot Hospital 2F
+		- Buwaya Cave
+		- (ENDLESS TOWER WORKS!!)
+		- Hazy Forest
+		- Malangdo Culvert
+		- (NIDHOGG WORKS!!)
+		- Octopus Cave
+		- Old Glast Heim
+		- (ORC'S MEMORY WORKS!!)
+		- (SEALED SHRINE WORKS!!)
+		- Wolfchev's Laboratory
+
+	- Special Areas
+		- Elden Group Headquarters
+		- 
+			
