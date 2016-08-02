@@ -425,7 +425,8 @@ function	script	Func_Socket2	{
 				mes "You'd better pray for a successful result.";
 				next;
 				set .@a, rand(1,100);
-				if ((.@a > getarg(2)) && (.@a < getarg(3)))
+				//if ((.@a > getarg(2)) && (.@a < getarg(3)))
+				if (.@a < getarg(3))
 				{
 					specialeffect EF_LORD;
 					mes "[Leablem]";
