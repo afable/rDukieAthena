@@ -1,6 +1,6 @@
 things to fix:
 
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
-- add a genichika's helmet
+
 
 
