@@ -2,9 +2,6 @@ things to fix:
 
 - lvl up past 99... aura lvl past 99.
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
-- @who drops for looking up items
-- @monster locations for hunting monsters
-- increase slotting chances
 - add a genichika's helmet
 
 
