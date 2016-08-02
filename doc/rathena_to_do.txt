@@ -1,6 +1,5 @@
 things to fix:
 
-- lvl up past 99... aura lvl past 99.
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
 - add a genichika's helmet
 
