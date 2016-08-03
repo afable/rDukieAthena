@@ -1,6 +1,6 @@
 things to fix:
 
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
-
+- setup client so that .gitignore is used to be able to play directly from projects/client folder... i.e. .gitignore will ignore all of the computer specific details for easy pushes and pulls on all clients
 
 
