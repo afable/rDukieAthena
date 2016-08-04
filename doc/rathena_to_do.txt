@@ -3,4 +3,4 @@ things to fix:
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
 - get rid of skill requirements so pick whaqtever skills you want! (didn't work in rathena/conf/battle/player.conf.... so maybe if you want more skills just allocate more skill points?
 - setup client so that .gitignore is used to be able to play directly from projects/client folder... i.e. .gitignore will ignore all of the computer specific details for easy pushes and pulls on all clients
-
+- undo changes to xampp configuration to allow only local connections... for security purposes.
