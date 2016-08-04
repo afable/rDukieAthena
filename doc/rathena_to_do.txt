@@ -1,6 +1,14 @@
 things to fix:
 
 - new summoner cat thing warp to prontera on start... somehow get skills to work?
+- turn off chat flooding prevention thingy
+- use client in one directory from projects using .gitignore
+- update magician hat with good stats.
+- increase book range to 4... some books 5, best books 6.
+- get rid of skill requirements so pick whaqtever skills you want!
+- add more anubis to sphinx 4/5
+- 
+
 
 
 
