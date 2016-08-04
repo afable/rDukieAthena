@@ -7,8 +7,5 @@ things to fix:
 - increase book range to 4... some books 5, best books 6.
 - get rid of skill requirements so pick whaqtever skills you want!
 - add more anubis to sphinx 4/5
-- 
-
-
-
+- setup client so that .gitignore is used to be able to play directly from projects/client folder... i.e. .gitignore will ignore all of the computer specific details for easy pushes and pulls on all clients
 
