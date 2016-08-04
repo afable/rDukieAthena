@@ -6,7 +6,7 @@ things to fix:
 - undo changes to xampp configuration to allow only local connections... for security purposes.
 -*** SET ROUTER TO KEEP A STATIC IP ADDRESS FOR SERVER COMPUTER!
 - update celebrant's mitt into something cooL? have 3 of them in storage... at least give them a slot?
-- fix ancient gold ornament hairband... the sprite is wrong on one of the diagonals...
+
 
 
 
