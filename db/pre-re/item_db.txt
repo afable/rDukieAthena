@@ -818,7 +818,7 @@
 1555,Book_Of_Blazing_Sun,Book of the Blazing Sun,5,35000,,750,90,,3,4,0x00410100,7,2,2,3,27,1,15,{ bonus bAtkEle,Ele_Fire; },{},{}
 1556,Book_Of_Gust_Of_Wind,Book of Gust of Wind,5,35000,,750,90,,3,4,0x00410100,7,2,2,3,27,1,15,{ bonus bAtkEle,Ele_Wind; },{},{}
 1557,Book_Of_The_Apocalypse,Book of the Apocalypse,5,60000,,800,120,,3,0,0x00410100,7,2,2,4,40,1,15,{ bonus bAtkEle,Ele_Dark; bonus2 bAddEle,Ele_Holy,5; bonus2 bAddEle,Ele_Water,7; bonus2 bAddEle,Ele_Earth,7; bonus2 bAddEle,Ele_Fire,7; bonus2 bAddEle,Ele_Wind,7; },{},{}
-1558,Girl's_Diary,Girl's Diary,5,1500,,300,1,,4,4,0x00410100,7,2,2,4,40,1,15,{ bonus bMatkRate,21; bonus bInt,2; bonus bDex,5; bonus bAspd,getrefine()*2; bonus bDelayRate,getrefine()*(-5); },{},{}
+1558,Girl's_Diary,Girl's Diary,5,1500,,300,1,,6,4,0x00410100,7,2,2,4,40,1,15,{ bonus bMatkRate,21; bonus bInt,2; bonus bDex,5; bonus bAspd,getrefine()*3; bonus bDelayRate,getrefine()*(-5); },{},{}
 1559,Legacy_Of_Dragon,Legacy of Dragon,5,20,,700,130,,3,0,0x00410100,7,2,2,4,70,1,15,{ bonus bInt,3; bonus bIgnoreDefRace,RC_Dragon; bonus2 bSPGainRace,RC_Dragon,10; },{},{}
 1560,Diary_Of_Great_Sage,Sage's Diary,5,20,,1100,100,,3,4,0x00410100,7,2,2,3,60,1,15,{ bonus bMatkRate,15; if(readparam(bStr)>=50) bonus bAspdRate,5; if(readparam(bInt)>=70) bonus bMatkRate,5; },{},{}
 1561,Hardback,Hardcover Book,5,20,,1500,140,,3,1,0x00410100,7,2,2,4,55,1,15,{ bonus bStr,3; bonus bDex,2; },{},{}
@@ -2221,7 +2221,7 @@
 5042,Hair_Protector,Bao Bao,4,20,,150,,0,,0,0xFFFFFFFE,7,2,256,,14,1,127,{},{},{}
 5043,Opera_Ghost_Mask,Opera Phantom Mask,4,20,,200,,1,,0,0xFFFFFFFE,7,2,512,,20,0,128,{},{},{}
 5044,Devil's_Wing,Evil Wing Ears,4,20,,350,,2,,0,0x0,7,2,256,,45,1,129,{ bonus bVit,1; },{},{}
-5045,Magician_Hat,Magician Hat,4,20,,500,,3,,0,0x00818314,7,2,256,,50,1,130,{ bonus bDex,1; bonus bAgi,1; bonus bMaxSP,50; },{},{}
+5045,Magician_Hat,Magician Hat,4,20,,500,,3,,1,0x00818314,7,2,256,,50,1,130,{ bonus bInt,getrefine()*2; bonus bDex,getrefine()*4; bonus bLuk,getrefine()*2; bonus bMdef,getrefine(); bonus bAspd,getrefine(); bonus bDelayRate,getrefine()*(-3); bonus3 bAutoSpell,"MG_COLDBOLT",6,20; bonus3 bAutoSpell,"MG_FIREBOLT",6,20; bonus3 bAutoSpell,"MG_LIGHTNINGBOLT",6,20; },{},{}
 5046,Bongun_Hat,Bongun Hat,4,20,,300,,5,,0,0xFFFFFFFF,7,2,769,,0,0,139,{},{},{}
 5047,Fashion_Sunglass,Fashionable Glasses,4,20,,100,,0,,0,0xFFFFFFFE,7,2,256,,0,1,131,{},{},{}
 5048,First_Moon_Hair_Pin,Cresent Hairpin,4,20,,100,,0,,0,0xFFFFFFFF,7,2,256,,0,1,132,{},{},{}
