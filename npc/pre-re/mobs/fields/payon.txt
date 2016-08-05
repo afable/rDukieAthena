@@ -64,10 +64,10 @@ pay_fild04,0,0,0,0	monster	Poring	1002,40,0,0,0
 pay_fild04,0,0,0,0	monster	Drops	1113,40,0,0,0
 pay_fild04,0,0,0,0	monster	Poporing	1031,40,0,0,0
 pay_fild04,0,0,0,0	monster	Marin	1242,10,0,0,0
-pay_fild04,0,0,0,0	monster	Ghostring	1120,1,3600000,1800000,1
-pay_fild04,0,0,0,0	monster	Mastering	1090,1,3600000,1800000,1
-pay_fild04,0,0,0,0	monster	Angeling	1096,1,3600000,1800000,1
-pay_fild04,0,0,0,0	monster	Deviling	1582,1,7200000,3600000,1
+pay_fild04,0,0,0,0	monster	Ghostring	1120,1,36000,18000,1
+pay_fild04,0,0,0,0	monster	Mastering	1090,1,36000,18000,1
+pay_fild04,0,0,0,0	monster	Angeling	1096,1,36000,18000,1
+pay_fild04,0,0,0,0	monster	Deviling	1582,1,72000,36000,1
 pay_fild04,346,335,5,5	monster	Shining Plant	1083,1,1800000,900000,1
 pay_fild04,254,193,10,10	monster	Green Plant	1080,5,360000,180000,1
 
@@ -127,8 +127,8 @@ pay_fild10,0,0,0,0	monster	Greatest General	1277,65,0,0,0
 pay_fild10,0,0,0,0	monster	Dokebi	1110,70,0,0,0
 pay_fild10,0,0,0,0	monster	Poison Spore	1077,20,0,0,0
 pay_fild10,0,0,0,0	monster	Nine Tail	1180,2,0,0,0
-pay_fild10,0,0,0,0	monster	Nine Tail	1180,1,1800000,900000,1
-pay_fild10,0,0,0,0	monster	Nine Tail	1180,1,900000,450000,1
+pay_fild10,0,0,0,0	monster	Nine Tail	1180,1,18000,9000,1
+pay_fild10,0,0,0,0	monster	Nine Tail	1180,1,9000,4500,1
 pay_fild10,213,157,10,10	monster	Green Plant	1080,5,360000,180000,1
 pay_fild10,281,307,10,10	monster	Green Plant	1080,5,360000,180000,1
 pay_fild10,66,332,10,10	monster	Green Plant	1080,5,360000,180000,1
@@ -140,8 +140,8 @@ pay_fild10,66,332,10,10	monster	Blue Plant	1079,1,360000,180000,1
 // pay_fild11 - Payon Forest
 //==================================================
 pay_fild11,0,0,0,0	monster	Greatest General	1277,30,0,0,0
-pay_fild11,0,0,0,0	monster	Nine Tail	1180,60,180000,0,0
-pay_fild11,0,0,0,0	monster	Dragon Tail	1321,50,180000,0,0
-pay_fild11,0,0,0,0	boss_monster	Eddga	1115,1,7200000,600000,1
+pay_fild11,0,0,0,0	monster	Nine Tail	1180,60,18000,0,0
+pay_fild11,0,0,0,0	monster	Dragon Tail	1321,50,18000,0,0
+pay_fild11,0,0,0,0	boss_monster	Eddga	1115,1,72000,6000,1
 pay_fild11,241,162,5,5	monster	Red Mushroom	1085,3,360000,180000,1
 pay_fild11,66,293,5,5	monster	Red Mushroom	1085,3,360000,180000,1
