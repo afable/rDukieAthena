@@ -671,7 +671,7 @@
 1373,Brood_Axe_C,Refined Bloody Axe,5,2,,0,205,,1,0,0x000444A2,7,2,34,4,0,0,7,{ bonus bStr,20; bonus bSpeedRate,25; bonus bAspdRate,5; },{},{}
 1374,Tomahawk_C,Tomahawk,5,2,,0,200,,1,0,0x000444A2,7,2,34,4,0,0,7,{ bonus bAtkEle,Ele_Wind; skill "ITM_TOMAHAWK",1; },{},{}
 1375,Berdysz,Berdysz,5,20,,2500,200,,1,2,0x000444A2,2,2,34,3,70,1,7,{ bonus2 bSubSize,Size_Medium,13; bonus2 bSubSize,Size_Large,15; },{},{}
-1376,Heart_Breaker,Heart Breaker,5,20,,2000,175,,1,1,0x000444A2,2,2,34,4,70,1,7,{ bonus bCritical,20+getrefine(); bonus bAspdRate,5; if((Class==Job_Whitesmith)||(Class==Job_Creator)) bonus3 bAutoSpell,"BS_HAMMERFALL",3,30; },{},{}
+1376,Heart_Breaker,Heart Breaker,5,20,,2000,175,,1,4,0x000444A2,2,2,34,4,70,1,7,{ bonus bCritical,20+getrefine(); bonus bAspdRate,5; if((Class==Job_Whitesmith)||(Class==Job_Creator)) bonus3 bAutoSpell,"BS_HAMMERFALL",3,30; },{},{}
 1377,Hurricane_Fury,Hurricane's Fury,5,20,,3500,332,,1,1,0x000444A2,2,2,34,4,80,1,7,{ bonus2 bSubSize,Size_Medium,10+getrefine(); bonus bAspdRate,getrefine(); bonus3 bAutoSpell,"NPC_PULSESTRIKE",5,20; },{},{}
 1378,Great_Axe_C,Refined Great Axe,5,1,,0,215,,1,0,0x000444A2,7,2,34,4,0,0,7,{ bonus bStr,5; bonus bHit,20; bonus2 bAddSkillBlow,"MC_MAMMONITE",5; bonus2 bAddEff,Eff_Stun,2000; },{},{}
 1379,BF_Two_Handed_Axe1,Valorous Insane Battle Axe,5,20,,0,200,,1,0,0x000444A2,7,2,34,3,80,1,7,{ bonus bStr,3; bonus2 bAddRace,RC_DemiHuman,55; bonus2 bAddRace,RC_Player,55; bonus2 bIgnoreDefRaceRate,RC_DemiHuman,20; bonus2 bIgnoreDefRaceRate,RC_Player,20; bonus bUnbreakableWeapon,0; },{},{}
