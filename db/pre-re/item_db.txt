@@ -2304,7 +2304,7 @@
 5124,Fricca_Circlet,Fricca's Circlet,4,30000,,300,,3,,1,0xFFFFFFFE,7,2,256,,65,1,251,{ bonus bStr,getrefine()*2; bonus bDex,getrefine()*2; bonus bFlee2,getrefine()*3; bonus bMdef,getrefine(); bonus bAspd,getrefine(); bonus bMaxSP,getrefine()*50; bonus3 bAutoSpell,"SM_BASH",6,20; },{},{}
 5125,Kiss_Of_Angel,Angel's Kiss,4,10000,,300,,3,,1,0x00000001,7,2,256,,50,1,255,{ bonus bSPrecovRate,5; },{},{}
 5126,Morpheus's_Hood,Morpheus's Hood,4,30000,,200,,1,,0,0xFFFFFFFE,7,2,256,,33,1,256,{ bonus bInt,2; },{},{}
-5127,Morrigane's_Helm,Morrigane's Helm,4,30000,,500,,4,,0,0xFFFFFFFE,7,2,256,,61,1,257,{ bonus bLuk,2; bonus bBaseAtk,3; },{},{}
+5127,Morrigane's_Helm,Morrigane's Helm,4,30000,,500,,4,,1,0xFFFFFFFE,7,2,256,,61,1,257,{ bonus bLuk,2; bonus bBaseAtk,3; },{},{}
 5128,Goibne's_Helmet,Goibne's Helm,4,30000,,500,,5,,0,0xFFFFFFFE,7,2,256,,54,1,258,{ bonus bVit,3; bonus bMdef,3; },{},{}
 5129,Bird_Nest,Bird Nest,4,20,,400,,1,,0,0xFFFFFFFF,7,2,256,,50,0,201,{ bonus bAgi,2; bonus2 bSubRace,RC_Brute,10; },{},{}
 5130,Lion_Mask,Lion Mask,4,20,,700,,0,,0,0x00CFDF80,7,2,768,,75,1,202,{ bonus2 bAddEffWhenHit,Eff_Silence,500; bonus bMdef,1; },{},{}
