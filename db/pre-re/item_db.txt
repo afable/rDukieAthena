@@ -1149,7 +1149,7 @@
 2236,Santa's_Hat,Santa Hat,4,20,,100,,1,,0,0xFFFFFFFF,7,2,256,,0,1,20,{ bonus bMdef,1; bonus bLuk,1; },{},{}
 2237,Weird_Goatee,Bandit Beard,4,2,,100,,0,,0,0xFFFFFFFF,7,2,1,,0,0,21,{},{},{}
 //2238,Weird_Moustache,Moustache,4,2,,100,,0,,0,0xFFFFFFFF,7,2,1,,0,0,22,{},{},{}
-2239,One_Eyed_Glass,Monocle,4,10000,,100,,0,,0,0xFFFFFFFF,7,2,512,,0,0,23,{},{},{}
+2239,One_Eyed_Glass,Monocle,4,10000,,100,,0,,1,0xFFFFFFFF,7,2,512,,0,0,23,{},{},{}
 2240,Beard,Beard,4,2,,100,,0,,0,0xFFFFFFFF,7,2,1,,0,0,24,{},{},{}
 2241,Granpa_Beard,Grampa Beard,4,5000,,100,,0,,0,0xFFFFFFFF,7,2,1,,0,0,25,{},{},{}
 2242,Luxury_Sunglasses,Purple Glasses,4,24000,,100,,1,,0,0xFFFFFFFF,7,2,512,,0,0,26,{ bonus2 bResEff,Eff_Blind,1000; },{},{}
