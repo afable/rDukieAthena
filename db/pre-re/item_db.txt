@@ -1589,7 +1589,7 @@
 2767,Acolyte_Figure,Acolyte Figure,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bInt,1; if(Class==Job_Acolyte) bonus bMaxSP,50; },{},{}
 2768,Mage_Figure,Mage Figure,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bInt,1; if(Class==Job_Mage) bonus bSPrecovRate,5; },{},{}
 2769,Archer_Figure,Archer Figure,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bDex,1; if(Class==Job_Archer) bonus bBaseAtk,10; },{},{}
-2770,Thief_Figure,Thief Figure,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bAgi,1; if(Class==Job_Thief) bonus bAspdRate,3; },{},{}
+2770,Thief_Figure,Thief Figure,4,0,,0,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bAgi,1; if(Class==Job_Thief) bonus bAspdRate,3; },{},{}
 2771,Merchant_Figure,Merchant Figure,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bStr,1; if(Class==Job_Merchant) bonus bCritical,5; },{},{}
 2772,Krieger_Ring1,Glorious Ring,4,20,,0,,0,,0,0xFFFFFFFE,7,2,136,,81,0,0,{ bonus bMaxHP,300; bonus2 bSubEle,Ele_Water,10; bonus2 bSubEle,Ele_Wind,10; bonus2 bSubEle,Ele_Earth,10; bonus2 bSubEle,Ele_Fire,10; bonus bAspdRate,5; bonus bCastrate,-3; bonus bHealPower,5; },{},{}
 2773,Krieger_Ring2,Glorious Mass-Production Ring,4,20,,0,,0,,0,0xFFFFFFFE,7,2,136,,61,0,0,{ bonus bAllStats,2; },{},{}
