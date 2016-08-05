@@ -1549,7 +1549,7 @@
 2727,Bowman_Scarf,Bowman Scarf,4,20,,200,,0,,0,0x00000800,2,2,136,,70,0,0,{ bonus bMaxSP,50; bonus bDex,3; },{},{}
 2728,Cursed_Hand,Cursed Hand,4,20,,50,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus3 bAutoSpell,"NPC_CRITICALWOUND",1,30; bonus bHit,10; bonus bHPrecovRate,20; },{},{}
 2729,Diabolus_Ring,Diabolus Ring,4,20,,50,,0,,1,0x00CFFF80,2,2,136,,0,0,0,{ bonus bMaxHP,100; bonus bMaxSP,100; bonus bHealPower,5; bonus2 bAddDamageClass,1916,10; bonus2 bAddDamageClass,1917,10; },{},{}
-2730,Morroc_Seal,Seal of Continental Guard,4,20,,50,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bMaxHP,50; bonus bAspdRate,3; },{},{}
+2730,Morroc_Seal,Seal of Continental Guard,4,20,,50,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bMaxHP,500; bonus bAspdRate,3; },{},{}
 2731,Morroc_Charm_Stone,Rune Spellstone,4,20,,50,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bMaxSP,50; bonus bCastRate,-1; },{},{}
 2732,Morroc_Ring,Death Loop,4,20,,50,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bCritical,5; },{},{}
 2733,Medal_Gunner,Sheriff Badge,4,20,,0,,1,,0,0x41000000,7,2,136,,70,0,0,{ bonus2 bAddClass,Class_All,5; bonus bMatkRate,5; bonus bCritical,10; bonus bMaxHP,300; bonus bMaxSP,80; bonus3 bAddEff,Eff_Blind,100,ATF_LONG; },{},{}
