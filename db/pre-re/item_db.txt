@@ -1535,8 +1535,8 @@
 2713,Certificate_TW,Certificate,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{},{},{}
 2714,Marvelous_Pandent,Marvelous Pendant,4,0,,100,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{},{},{}
 2715,Skul_Ring_,Skull Ring,4,10000,,100,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus2 bSubRace,RC_Undead,1; },{},{}
-2716,Librarian_Glove,Librarian Glove,4,20,,100,,0,,1,0x00810200,7,2,136,,80,0,0,{ bonus bMaxSP,200; },{},{}
-2717,Pocket_Watch_,Pocket Watch,4,20,,200,,0,,1,0x00810204,7,2,136,,80,0,0,{},{},{}
+2716,Librarian_Glove,Librarian Glove,4,20,,100,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bMaxSP,200; },{},{}
+2717,Pocket_Watch_,Pocket Watch,4,20,,200,,0,,1,0xFFFFFFFE,7,2,136,,80,0,0,{},{},{}
 2718,Lunatic_Brooch,Lunatic Brooch,4,20,,200,,0,,1,0x00080808,7,2,136,,65,0,0,{},{},{}
 2719,Iron_Wrist,Iron Wrist,4,20,,700,,1,,0,0x000444A2,7,2,136,,50,0,0,{ bonus2 bSkillAtk,"SM_BASH",6; bonus2 bSkillAtk,"MC_MAMMONITE",6; },{},{}
 2720,Medal_Swordman,Medal of Honor,4,20,,0,,1,,0,0x00404082,7,2,136,,70,0,0,{ bonus2 bAddClass,Class_All,5; bonus bMatkRate,5; bonus bHit,10; bonus bMaxHP,500; bonus bMaxSP,50; bonus3 bAddEff,Eff_Stun,100,ATF_SHORT; },{},{}
