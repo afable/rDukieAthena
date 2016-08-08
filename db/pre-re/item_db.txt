@@ -1486,7 +1486,7 @@
 2664,Scarf_Belt,Belcarf,4,20,,200,,0,,0,0xFFFFFFFE,7,2,136,,75,0,0,{ bonus bDex,2; bonus bInt,1; },{},{}
 2665,Ring_Of_Exorcism,Exorcising Ring,4,20,,500,,0,,0,0x00008110,7,2,136,,60,0,0,{ bonus bMdef,1; bonus2 bExpAddRace,RC_Undead,5; bonus2 bExpAddRace,RC_Demon,5; },{},{}
 2666,Lamp_Of_Hope,Lantern of Hope,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,1,0,0,{ bonus bStr,2; bonus2 bResEff,Eff_Blind,1000; },{},{}
-2667,Glove_Of_Archer,Renown Archer's Gloves,4,20,,300,,0,,0,0xFFFFFFFE,7,2,136,,60,0,0,{ bonus bHit,5; bonus bCritical,5; bonus bDex,1; },{},{}
+2667,Glove_Of_Archer,Renown Archer's Gloves,4,20,,300,,0,,1,0xFFFFFFFE,7,2,136,,60,0,0,{ bonus bHit,5; bonus bCritical,5; bonus bDex,1; },{},{}
 2668,Women's_Glory,Woman Glory,4,0,,500,,0,,0,0xFFFFFFFF,7,2,136,,1,0,0,{},{},{}
 2669,Golden_Necklace_,RJC Necklace,4,30000,,100,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bMaxSP,10; },{},{}
 2670,Ring_Of_Longing,Ring of Longing,4,20,,100,,1,,0,0xFFFFFFFF,7,2,136,,30,0,0,{ bonus bFlee,5; },{},{}
