@@ -20,7 +20,7 @@
 //izlude,105,99,0	shop	Butcher#iz	54,517:-1
 izlude,136,158,0	shop	Butcher#iz	54,517:-1
 //izlude,94,98,4	shop	Fruit Gardener#iz	53,512:-1,513:-1,515:-1,516:-1
-izlude,120,169,4	shop	Fruit Gardener#iz	53,512:-1,513:-1,515:-1,516:-1
+izlude,120,169,4	shop	Fruit Gardener#iz	53,512:-1,513:-1,515:-1,516:-1,514:-1
 //izlude,105,92,7	shop	Vendor from Milk Ranch#i	90,519:-1
 izlude,119,154,7	shop	Vendor from Milk Ranch#i	90,519:-1
 //izlude,164,138,4	shop	Pet Groomer#iz	124,537:-1,643:-1,10013:-1,10014:-1,554:-1,6113:-1,6114:-1,6115:-1
