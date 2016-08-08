@@ -196,7 +196,7 @@ payon,181,104,4	script	Kafra Employee::kaf_payon	113,{
 	mes "you with convenient services.";
 	mes "How may I be of assistance?";
 	callfunc "F_Kafra",5,0,1,60,930;
-	savepoint "payon",160,58;
+	savepoint "payon",170,100;
 	callfunc "F_KafEnd",0,1,"in the city of Payon";
 }
 
