@@ -913,7 +913,7 @@
 1716,Kakkung_,Gakkung Bow,5,42000,,1100,100,,5,2,0x000A0848,7,2,34,3,33,1,11,{},{},{}
 1718,Hunter_Bow,Hunter Bow,5,64000,,1500,125,,5,0,0x00000800,7,2,34,3,33,1,11,{},{},{}
 1719,Bow_Of_Roguemaster,Roguemaster's Bow,5,20,,500,75,,11,4,0x00000040,7,2,34,4,48,1,11,{},{},{}
-1720,Bow_Of_Rudra,Rudra Bow,5,20,,1200,150,,5,4,0x000A0808,7,2,34,4,48,1,11,{ bonus bAtkEle,Ele_Holy; bonus bInt,5; skill "AL_CURE",1; skill "AL_HEAL",1; bonus2 bResEff,Eff_Poison,5000; bonus2 bResEff,Eff_Curse,5000; bonus2 bResEff,Eff_Silence,5000; bonus2 bResEff,Eff_Confusion,5000; bonus2 bResEff,Eff_Blind,5000; },{},{}
+1720,Bow_Of_Rudra,Rudra Bow,5,20,,1200,150,,5,4,0x000A0808,7,2,34,4,48,1,11,{ bonus bAtkEle,Ele_Holy; bonus bInt,5; skill "AL_CURE",1; skill "AL_HEAL",10; bonus2 bResEff,Eff_Poison,5000; bonus2 bResEff,Eff_Curse,5000; bonus2 bResEff,Eff_Silence,5000; bonus2 bResEff,Eff_Confusion,5000; bonus2 bResEff,Eff_Blind,5000; },{},{}
 1721,Repeting_CrossBow,Repeating Crossbow,5,89000,,2000,95,,9,4,0x00020840,7,2,34,4,65,1,11,{},{},{}
 1722,Balistar,Ballista,5,124000,,3500,145,,5,4,0x00080800,7,2,34,4,77,1,11,{},{},{}
 1723,Luna_Bow,Luna Bow,5,20,,2000,100,,5,4,0x00000800,7,2,34,3,30,1,11,{ bonus bDef,2+3*(getrefine()>5)+2*(getrefine()>8); },{},{}
