@@ -2292,7 +2292,7 @@
 5113,Angry_Mouth,Angry Snarl,4,20,,50,,0,,0,0xFFFFFFFF,7,2,1,,0,0,194,{},{},{}
 5114,Fedora,Bucket Hat,4,6000,,300,,3,,0,0xFFFFFFFF,7,2,256,,0,1,195,{},{},{}
 5115,Winter_Hat,Winter Hat,4,20,,500,,3,,0,0xFFFFFFFF,7,2,256,,0,1,196,{ bonus2 bResEff,Eff_Freeze,1000; },{},{}
-5116,Banana_Hat,Banana Hat,4,20,,200,,1,,0,0xFFFFFFFF,7,2,256,,0,1,197,{ bonus3 bAutoSpell,"SM_PROVOKE",3,30; },{},{}
+5116,Banana_Hat,Banana Hat,4,20,,200,,1,,1,0xFFFFFFFF,7,2,256,,0,1,197,{ bonus3 bAutoSpell,"SM_PROVOKE",3,30; bonus bLuk,8+getrefine()*8; bonus bAspdRate,3+getrefine()*3; },{},{}
 5117,Mistic_Rose,Mystic Rose,4,20,,100,,0,,0,0xFFFFFFFF,7,2,256,,0,1,198,{ bonus2 bSubRace,RC_Plant,2; },{},{}
 5118,Ear_Of_Puppy,Puppy Headband,4,20,,100,,2,,0,0xFFFFFFFF,7,2,256,,0,1,199,{},{},{}
 5119,Super_Novice_Hat_,Super Novice Hat,4,8500,,400,,4,,1,0x00000001,7,2,256,,40,1,193,{ bonus bAllStats,1; },{},{}
