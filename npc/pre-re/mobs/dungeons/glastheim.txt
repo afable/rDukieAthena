@@ -154,11 +154,11 @@ gl_sew02,0,0,0,0	monster	Cramp	1209,15,0,0,0
 //==================================================
 // gl_sew03 - Glast Heim Culvert F3
 //==================================================
-gl_sew03,0,0,0,0	monster	Sting	1207,70,0,0,0
+gl_sew03,0,0,0,0	monster	Sting	1207,230,0,0,0
 gl_sew03,0,0,0,0	monster	Gargoyle	1253,37,0,0,0
-gl_sew03,147,7,5,1	monster	Gargoyle	1253,1,2400000,1800000,0
-gl_sew03,140,7,5,1	monster	Gargoyle	1253,1,3600000,1800000,0
-gl_sew03,158,7,5,1	monster	Gargoyle	1253,1,3600000,1800000,0
+gl_sew03,147,7,5,1	monster	Gargoyle	1253,1,24000,18000,0
+gl_sew03,140,7,5,1	monster	Gargoyle	1253,1,36000,18000,0
+gl_sew03,158,7,5,1	monster	Gargoyle	1253,1,36000,18000,0
 
 //==================================================
 // gl_sew04 - Glast Heim Culvert F4
