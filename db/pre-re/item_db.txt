@@ -1265,7 +1265,7 @@
 2351,Earth_Sprits_Armor_,Claytos Cracking Earth Armor,4,136000,,2200,,4,,1,0xFFFFFFFE,7,2,16,,45,1,0,{ bonus bDefEle,Ele_Earth; },{},{}
 2352,Novice_Plate,Tattered Novice Ninja Suit,4,1,,1,,4,,0,0x00000001,7,2,16,,0,0,0,{},{},{}
 2353,Odin's_Blessing,Odin's Blessing,4,30000,,2500,,6,,1,0xFFFFFFFE,7,2,16,,65,1,0,{},{},{}
-2354,Goibne's_Armor,Goibne's Armor,4,50000,,3500,,7,,0,0xFFFFFFFE,7,2,16,,54,1,0,{ bonus bVit,2; bonus bMaxHPrate,10; },{},{}
+2354,Goibne's_Armor,Goibne's Armor,4,50000,,3500,,7,,1,0xFFFFFFFE,7,2,16,,54,1,0,{ bonus bVit,2; bonus bMaxHPrate,10; },{},{}
 2355,Angel's_Protection,Angelic Protection,4,10000,,600,,4,,1,0x00000001,7,2,16,,40,1,0,{ bonus bMdef,20; },{},{}
 2356,Vestment_Of_Grace,Blessed Holy Robe,4,20,,2500,,5,,1,0x00008100,7,2,16,,70,1,0,{ bonus bMdef,5; bonus2 bResEff,Eff_Blind,8000; },{},{}
 2357,Valkyrie_Armor,Valkyrian Armor,4,0,,2800,,6,,1,0xFFFFFFFE,2,2,16,,1,1,0,{ bonus bAllStats,1; bonus bUnbreakableArmor,0; if(BaseClass==Job_Mage||BaseClass==Job_Archer||BaseClass==Job_Acolyte) bonus2 bResEff,Eff_Silence,5000; else if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief) bonus2 bResEff,Eff_Stun,5000; },{},{}
@@ -1325,17 +1325,17 @@
 2410,Sleipnir,Sleipnir,4,20,,3500,,5,,1,0xFFFFFFFF,7,2,64,,94,0,0,{ bonus bMdef,10; bonus bMaxHPrate,20; bonus bMaxSPrate,20; bonus bSPrecovRate,15; bonus bSpeedRate,25; },{},{}
 2411,Grave,Greaves,4,48000,,750,,5,,0,0x00004080,7,2,64,,65,1,0,{},{},{}
 2412,Grave_,Greaves,4,54000,,750,,5,,1,0x00004080,7,2,64,,65,1,0,{},{},{}
-2413,Safty_Boots,Safety Boots,4,34000,,350,,6,,0,0x00004082,7,2,64,,30,0,0,{},{},{}
+2413,Safty_Boots,Safety Boots,4,34000,,350,,6,,1,0x00004082,7,2,64,,30,0,0,{},{},{}
 2414,Novice_Boots,Novice Slippers,4,1,,1,,2,,0,0x00000001,7,2,64,,0,0,0,{},{},{}
 2415,Slipper,Bunny Slipper,4,34000,,300,,3,,1,0xFFFFFFFE,7,0,64,,30,1,0,{ bonus bLuk,3; bonus bMdef,3; },{},{}
 2416,Novice_Shoes,Novice Shoes,4,35000,,500,,2,,1,0x00000001,7,2,64,,40,1,0,{ bonus bMaxHPrate,5; },{},{}
 2417,Fricco_Shoes,Fricco's Shoes,4,30000,,500,,3,,0,0xFFFFFFFE,7,2,64,,65,1,0,{ bonus bAgi,2; bonus2 bAddItemGroupHealRate,IG_Potion,20; },{},{}
 2418,Vidar's_Boots,Vidar's Boots,4,30000,,650,,4,,0,0xFFFFFFFE,7,2,64,,65,1,0,{ bonus bMaxHPrate,9; bonus bMaxSPrate,9; },{},{}
-2419,Goibne's_Combat_Boots,Goibne's Greaves,4,30000,,700,,4,,0,0xFFFFFFFE,7,2,64,,54,1,0,{ bonus bMdef,3; bonus bMaxHPrate,5; bonus bMaxSPrate,5; },{},{}
+2419,Goibne's_Combat_Boots,Goibne's Greaves,4,30000,,700,,4,,1,0xFFFFFFFE,7,2,64,,54,1,0,{ bonus bMdef,3; bonus bMaxHPrate,5; bonus bMaxSPrate,5; },{},{}
 2420,Angel's_Arrival,Angel's Reincarnation,4,10000,,300,,2,,1,0x00000001,7,2,64,,25,1,0,{ bonus bMaxHP,100; },{},{}
 2421,Valkyrie_Shoes,Valkyrian Shoes,4,0,,500,,4,,1,0xFFFFFFFE,2,2,64,,1,1,0,{ bonus bUnbreakableShoes,0; if(BaseClass==Job_Mage||BaseClass==Job_Archer||BaseClass==Job_Acolyte) bonus bMaxHP,(BaseLevel*5); else if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief) bonus bMaxSP,(JobLevel*2); },{},{}
 2422,High_Fashion_Sandals,High Fashion Sandals,4,24000,,200,,2,,1,0x00818314,7,2,64,,40,1,0,{ bonus bMdef,10; },{},{}
-2423,Variant_Shoes,Variant Shoes,4,20,,500,,3,,0,0xFFFFFFFE,2,2,64,,85,1,0,{ bonus bMaxHPRate,20-getrefine(); bonus bMaxSPRate,20-getrefine(); bonus bDef,getrefine()/2; },{},{}
+2423,Variant_Shoes,Variant Shoes,4,20,,500,,3,,1,0xFFFFFFFE,2,2,64,,85,1,0,{ bonus bMaxHPRate,20-getrefine(); bonus bMaxSPRate,20-getrefine(); bonus bDef,getrefine()/2; },{},{}
 2424,Tidal_Shoes,Tidal Shoes,4,20,,300,,3,,1,0xFFFFFFFE,2,2,64,,55,1,0,{ bonus2 bSubEle,Ele_Water,5; },{},{}
 2425,Black_Leather_Boots,Black Leather Boots,4,20,,500,,4,,0,0xFFFFFFFE,2,2,64,,55,1,0,{ bonus bAgi,1; if(getrefine()>=9) bonus bAgi,2; },{},{}
 2426,Shadow_Walk,Shadow Walk,4,20,,2000,,0,,0,0xFFFFFFFE,2,2,64,,75,1,0,{ bonus bMdef,10; if(getskilllv("AS_CLOAKING")<2){ bonus5 bAutoSpellWhenHit,"AS_CLOAKING",2,100,BF_MAGIC,0; } else bonus5 bAutoSpellWhenHit,"AS_CLOAKING",getskilllv("AS_CLOAKING"),100,BF_MAGIC,0; },{},{}
@@ -1360,9 +1360,9 @@
 2445,Krieger_Shoes2,Glorious Popularized Shoes,4,20,,0,,0,,0,0xFFFFFFFE,7,2,64,,61,1,0,{ bonus bMaxHPRate,5; bonus bMaxSPRate,5; },{},{}
 2446,Krieger_Shoes3,Glorious Mass-Production Shoes,4,20,,0,,0,,0,0xFFFFFFFE,7,2,64,,0,1,0,{ bonus bMaxHPRate,5; },{},{}
 2447,Military_Boots,Army Boots,4,0,,1000,,5,,0,0xFFFFFFFE,7,2,64,,0,1,0,{},{},{}
-2448,Air_Boss,Air Boss,4,0,,500,,2,,0,0xFFFFFFFF,7,2,64,,0,1,0,{ bonus bAgi,1; },{},{}
+2448,Air_Boss,Air Boss,4,0,,500,,2,,1,0xFFFFFFFF,7,2,64,,0,1,0,{ bonus bAgi,1; bonus bAspdRate,3; bonus bCastrate,-3; },{},{}
 2449,Variant_Shoes_M,Variant Shoes,4,20,,500,,3,,0,0xFFFFFFFE,2,2,64,,85,1,0,{ bonus bMaxHPRate,20-getrefine(); bonus bMaxSPRate,20-getrefine(); bonus bDef,getrefine()/2; },{},{}
-2450,Vital_Tree_Shoes,Vital Tree Shoes,4,20,,500,,4,,0,0xFFFFFFFE,2,2,64,,60,1,0,{ bonus bMaxHPrate,10; bonus2 bHPRegenRate,30,10000; bonus bHealpower2,5; bonus bAddItemHealRate,5; bonus bMdef,3; bonus bVit,2; },{},{}
+2450,Vital_Tree_Shoes,Vital Tree Shoes,4,20,,500,,4,,1,0xFFFFFFFE,2,2,64,,60,1,0,{ bonus bMaxHPrate,10; bonus2 bHPRegenRate,30,10000; bonus bHealpower2,5; bonus bAddItemHealRate,5; bonus bMdef,3; bonus bVit,2; },{},{}
 // Garments
 //===================================================================
 2501,Hood,Hood,4,1000,,200,,1,,0,0xFFFFFFFF,7,2,4,,0,1,0,{},{},{}
@@ -1384,7 +1384,7 @@
 2517,Vali's_Manteau,Vali's Manteau,4,30000,,600,,4,,0,0xFFFFFFFE,7,2,4,,65,1,0,{ bonus2 bSubEle,Ele_Neutral,15; },{},{}
 2518,Morpheus's_Shawl,Morpheus's Shawl,4,30000,,600,,3,,0,0xFFFFFFFE,7,2,4,,33,1,0,{ bonus bMaxSPrate,10; bonus bMdef,3; },{},{}
 2519,Morrigane's_Manteau,Morrigane's Manteau,4,30000,,600,,3,,1,0xFFFFFFFE,7,2,4,,61,1,0,{ bonus bLuk,2; bonus bFlee2,8; },{},{}
-2520,Goibne's_Shoulder_Arms,Goibne's Spaulders,4,30000,,700,,3,,0,0xFFFFFFFE,7,2,4,,54,1,0,{ bonus bLongAtkDef,10; bonus bMdef,2; bonus bVit,1; },{},{}
+2520,Goibne's_Shoulder_Arms,Goibne's Spaulders,4,30000,,700,,3,,1,0xFFFFFFFE,7,2,4,,54,1,0,{ bonus bLongAtkDef,10; bonus bMdef,2; bonus bVit,1; },{},{}
 2521,Angel's_Warmth,Angelic Cardigan,4,10000,,400,,2,,1,0x00000001,7,2,4,,20,1,0,{ bonus bHPrecovRate,5; },{},{}
 2522,Undershirt,Undershirt,4,20000,,150,,2,,0,0xFFFFFFFF,7,2,4,,1,1,0,{ bonus bMdef,1; },{},{}
 2523,Undershirt_,Undershirt,4,20000,,150,,2,,1,0xFFFFFFFF,7,2,4,,1,1,0,{ bonus bMdef,1; },{},{}
@@ -1563,7 +1563,7 @@
 2741,All_In_One_Ring,All In One Ring,4,20,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bAllStats,1; bonus bNoCastCancel,0; bonus bCastRate,10; skill "AL_HEAL",1; skill "AL_TELEPORT",1; },{},{}
 //2742,Lucky_Clip,Lucky Clip,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{},{},{}
 2743,Angelic_Ring,Angelic Ring,4,20,,100,,0,,0,0x00CFFF80,2,2,136,,70,0,0,{ bonus bInt,2; bonus bDex,1; bonus bMdef,2; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AL_HEAL","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AM_POTIONPITCHER","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"PR_SANCTUARY","{ specialeffect2 EF_HEAL3; }"; },{},{}
-2744,Sprint_Ring,Sprint Ring,4,20,,100,,0,,0,0x00CFFF80,2,2,136,,70,0,0,{ bonus bCastrate,-10; bonus bDelayRate,-5; },{},{}
+2744,Sprint_Ring,Sprint Ring,4,20,,100,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bCastrate,-10; bonus bDelayRate,-5; },{},{}
 2745,Pinguicula_Corsage,Pinguicula Corsage,4,20,,200,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bMdef,2; bonus bMaxSP,25; },{},{}
 2746,Cold_Heart,Cold Heart,4,20,,100,,1,,0,0x00001000,2,2,136,,80,0,0,{ bonus bAgi,3; },{},{}
 2747,Black_Cat,Black Cat,4,20,,100,,1,,0,0x00020000,2,2,136,,80,0,0,{ bonus bDex,3; },{},{}
@@ -2305,7 +2305,7 @@
 5125,Kiss_Of_Angel,Angel's Kiss,4,10000,,300,,3,,1,0x00000001,7,2,256,,50,1,255,{ bonus bSPrecovRate,5; },{},{}
 5126,Morpheus's_Hood,Morpheus's Hood,4,30000,,200,,1,,0,0xFFFFFFFE,7,2,256,,33,1,256,{ bonus bInt,2; },{},{}
 5127,Morrigane's_Helm,Morrigane's Helm,4,30000,,500,,4,,1,0xFFFFFFFE,7,2,256,,61,1,257,{ bonus bLuk,2; bonus bBaseAtk,3; },{},{}
-5128,Goibne's_Helmet,Goibne's Helm,4,30000,,500,,5,,0,0xFFFFFFFE,7,2,256,,54,1,258,{ bonus bVit,3; bonus bMdef,3; },{},{}
+5128,Goibne's_Helmet,Goibne's Helm,4,30000,,500,,5,,1,0xFFFFFFFE,7,2,256,,54,1,258,{ bonus bVit,3; bonus bMdef,3; },{},{}
 5129,Bird_Nest,Bird Nest,4,20,,400,,1,,0,0xFFFFFFFF,7,2,256,,50,0,201,{ bonus bAgi,2; bonus2 bSubRace,RC_Brute,10; },{},{}
 5130,Lion_Mask,Lion Mask,4,20,,700,,0,,0,0x00CFDF80,7,2,768,,75,1,202,{ bonus2 bAddEffWhenHit,Eff_Silence,500; bonus bMdef,1; },{},{}
 5131,Close_Helmet,Close Helmet,4,20,,1200,,8,,0,0x00004082,7,2,769,,75,1,203,{ bonus bVit,3; bonus bMaxHPrate,3; },{},{}
