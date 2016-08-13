@@ -2251,7 +2251,7 @@
 5071,Indian_Headband,Indian Headband,4,20,,200,,1,,0,0xFFFFFFFE,7,2,256,,0,1,155,{ bonus bDex,1; },{},{}
 5072,Inccubus_Horn,Incubus Horn,4,20,,800,,4,,0,0xFFFFFFFE,7,2,256,,70,1,156,{ bonus bAgi,1; bonus bMdef,10; },{},{}
 5073,Cap_Of_Concentration,Model Training Hat,4,20,,700,,2,,0,0xFFFFFFFE,7,2,256,,0,1,157,{ bonus bDex,2; },{},{}
-5074,Ear_Of_Angel's_Wing,Angel Wing Ears,4,20,,100,,1,,0,0xFFFFFFFF,7,2,512,,70,0,158,{ bonus bStr,1; },{},{}
+5074,Ear_Of_Angel's_Wing,Angel Wing Ears,4,20,,100,,1,,1,0xFFFFFFFF,7,2,512,,70,0,158,{ bonus bStr,1; },{},{}
 5075,Cowboy_Hat,Cowboy Hat,4,20,,500,,4,,1,0xFFFFFFFF,7,2,256,,0,1,159,{ bonus bDex,getrefine()*2; bonus bAgi,getrefine()*2; bonus bLuk,getrefine()*2; bonus bMdef,getrefine(); bonus bAspdRate,getrefine(); },{},{}
 5076,Fur_Hat,Beanie,4,20,,350,,2,,0,0xFFFFFFFF,7,2,256,,0,1,160,{ bonus bLuk,1; },{},{}
 5077,Tulip_Hairpin,Tulip Hairpin,4,20,,100,,1,,0,0xFFFFFFFF,7,2,256,,0,1,161,{},{},{}
