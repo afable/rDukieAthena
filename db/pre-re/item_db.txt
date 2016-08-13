@@ -1636,12 +1636,12 @@
 2824,Mage_Manual,Mage Manual,4,0,,100,,0,,0,0x00000001,7,2,136,,1,0,0,{ bonus bMaxSP,100; skill "MG_SRECOVERY",1; skill "MG_COLDBOLT",1; skill "MG_FIREWALL",1; skill "MG_FIREBOLT",1; },{},{}
 // Cards
 //===================================================================
-4001,Poring_Card,Poring Card,6,20,,10,,,,,,,,16,,,,,{ bonus bLuk,2; bonus bFlee2,1; },{},{}
+4001,Poring_Card,Poring Card,6,20,,10,,,,,,,,64,,,,,{ bonus bLuk,6; bonus bFlee2,3; },{},{}
 4002,Fabre_Card,Fabre Card,6,20,,10,,,,,,,,2,,,,,{ bonus bVit,1; bonus bMaxHP,100; },{},{}
 4003,Pupa_Card,Pupa Card,6,20,,10,,,,,,,,16,,,,,{ bonus bMaxHP,700; },{},{}
 4004,Drops_Card,Drops Card,6,20,,10,,,,,,,,2,,,,,{ bonus bDex,1; bonus bHit,3; },{},{}
 4005,Poring__Card,Santa Poring Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddEle,Ele_Dark,20; },{},{}
-4006,Lunatic_Card,Lunatic Card,6,20,,10,,,,,,,,2,,,,,{ bonus bLuk,1; bonus bCritical,1; bonus bFlee2,1; },{},{}
+4006,Lunatic_Card,Lunatic Card,6,20,,10,,,,,,,,769,,,,,{ bonus bLuk,3; bonus bCritical,3; bonus bFlee2,3; },{},{}
 4007,Pecopeco_Egg_Card,Peco Peco Egg Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddRace,RC_Formless,20; },{},{}
 4008,Picky_Card,Picky Card,6,20,,10,,,,,,,,16,,,,,{ bonus bStr,1; bonus bBaseAtk,10; },{},{}
 4009,Chonchon_Card,Chonchon Card,6,20,,10,,,,,,,,64,,,,,{ bonus bAgi,1; bonus bFlee,2; },{},{}
@@ -1832,7 +1832,7 @@
 4194,Rybio_Card,Rybio Card,6,20,,10,,,,,,,,16,,,,,{ bonus2 bAddEffWhenHit,Eff_Stun,300+600*(readparam(bDex)>=77); },{},{}
 4195,Leaf_Cat_Card,Leaf Cat Card,6,20,,10,,,,,,,,769,,,,,{ bonus2 bSubEle,Ele_Water,10; bonus3 bAddMonsterDropItem,991,RC_Fish,100; },{},{}
 4196,Marin_Card,Marin Card,6,20,,10,,,,,,,,136,,,,,{ bonus2 bAddMonsterDropItem,909,2000; bonus2 bAddMonsterDropItem,7126,10; },{},{}
-4197,Mastering_Card,Mastering Card,6,20,,10,,,,,,,,4,,,,,{ bonus bLuk,1; },{},{}
+4197,Mastering_Card,Mastering Card,6,20,,10,,,,,,,,4,,,,,{ bonus bLuk,11; },{},{}
 4198,Maya_Puple_Card,Maya Purple Card,6,20,,10,,,,,,,,769,,,,,{ bonus bIntravision,0; },{},{}
 4199,Merman_Card,Merman Card,6,20,,10,,,,,,,,64,,,,,{ bonus bHPrecovRate,10; bonus bSPrecovRate,10; },{},{}
 4200,Megalith_Card,Megalith Card,6,20,,10,,,,,,,,64,,,,,{ if(getrefine()<6) bonus bMdef,7; },{},{}
@@ -2228,7 +2228,7 @@
 5048,First_Moon_Hair_Pin,Cresent Hairpin,4,20,,100,,0,,0,0xFFFFFFFF,7,2,256,,0,1,132,{},{},{}
 5049,Stripe_Band,Striped Hairband,4,20,,150,,1,,0,0xFFFFFFFF,7,2,256,,0,0,133,{},{},{}
 5050,Mystery_Fruit_Shell,Wonder Nutshell,4,20,,300,,5,,0,0xFFFFFFFF,7,2,256,,30,0,134,{},{},{}
-5051,Kitty_Bell,Pussy Cat Bell,4,20,,100,,0,,0,0x0,7,2,1,,0,0,135,{},{},{}
+5051,Kitty_Bell,Pussy Cat Bell,4,20,,100,,0,,1,0xFFFFFFFF,7,2,1,,0,0,135,{},{},{}
 5052,Blue_Hair_Band,Blue Hairband,4,20,,150,,1,,0,0xFFFFFFFF,7,2,256,,0,1,136,{},{},{}
 5053,Spinx_Helm,Sphinx Hat,4,20,,3000,,5,,0,0x00004082,7,2,257,,65,0,137,{ bonus bStr,2; },{},{}
 5054,Assassin_Mask,Assassin Mask,4,20,,100,,0,,0,0x00001100,7,2,1,,70,0,180,{},{},{}
@@ -2641,7 +2641,7 @@
 5460,Adv_Dragon_Skull,Evolved Dragon Skull Hat,4,20,,1000,,7,,0,0xFFFFFFFF,7,2,256,,60,1,457,{ bonus bAllStats, 2; bonus bMaxHPrate, 3; },{},{}
 5461,Adv_Whisper_Mask,Evolved Whisper Mask,4,20,,300,,1,,0,0xFFFFFFFF,7,2,769,,50,1,458,{ bonus bDex,3; bonus2 bSubEle,Ele_Ghost, 20; },{},{}
 5462,Spiked_Scarf,Spiked Scarf,4,20,,100,,1,,0,0xFFFFFFFF,7,2,1,,90,0,459,{ bonus bVit,1; bonus2 bAddRace,RC_DemiHuman,1; bonus2 bAddRace,RC_Player,1; bonus2 bSubRace,RC_DemiHuman,1; bonus2 bSubRace,RC_Player,1; },{},{}
-5463,Rainbow_Scarf,Rainbow Scarf,4,20,,100,,1,,0,0xFFFFFFFF,7,2,1,,90,0,460,{ bonus bInt,1; bonus bMdef,2; bonus bMatkRate,1; },{},{}
+5463,Rainbow_Scarf,Rainbow Scarf,4,20,,100,,1,,1,0xFFFFFFFF,7,2,1,,90,0,460,{ bonus bInt,1; bonus bMdef,2; bonus bMatkRate,1; },{},{}
 5464,Zaha_Doll_Hat,Zaha Doll Hat,4,20,,0,,1,,0,0xFFFFFFFF,7,2,256,,0,0,461,{ bonus bInt,2; skill "PR_MAGNIFICAT", 3; },{},{}
 //5465,Celestial_Hat,Hat Of Fortune,4,20,,500,,3,,1,0xFFFFFFFF,7,2,256,,40,1,462,{ bonus bLuk,2; bonus bMdef,5; if(getrefine()>4) bonus bLuk,getrefine()-4; },{},{}
 //5466,Wind_Milestone,Wind Milestone,4,20,,100,,2,,1,0xFFFFFFFF,7,2,256,,30,1,463,{ bonus bAgi,2; skill "AL_TELEPORT",1; },{},{}
@@ -2726,7 +2726,7 @@
 5545,Aries_Diadem,Aries Diadem,4,20,,400,,3,,0,0xFFFFFFFF,7,2,256,,70,1,531,{ bonus bVit,2; bonus2 bSubEle,Ele_fire,5; if(getrefine()>6) { bonus bDef,1; bonus bVit,1; } },{},{}
 5546,Aries_Crown,Aries Crown,4,20,,400,,3,,0,0xFFFFFFFF,7,2,256,,70,1,532,{ bonus bVit,2; bonus2 bSubEle,Ele_fire,5; if(getrefine()>6) { bonus bDef,1; bonus bVit,1; } },{},{}
 5547,RJC_Katusa,RJC Katusa Flower,4,20,,200,,1,,1,0xFFFFFFFF,7,2,256,,0,1,533,{  bonus2 bSkillAtk, "WZ_HEAVENDRIVE", 15 + getequiprefinerycnt(EQI_HAND_R); bonus2 bSkillAtk, "WZ_EARTHSPIKE", 15 + getequiprefinerycnt(EQI_HAND_R); bonus2 bCastrate, "WZ_HEAVENDRIVE", -25; bonus2 bCastrate, "WZ_EARTHSPIKE", -25; ; },{},{}
-5548,Scarlet_Rose,Scarlet Rose,4,20,,100,,0,,0,0xFFFFFFFF,7,2,1,,50,1,534,{ bonus bLuk,1; },{},{}
+5548,Scarlet_Rose,Scarlet Rose,4,20,,100,,0,,1,0xFFFFFFFF,7,2,1,,50,1,534,{ bonus bLuk,1; },{},{}
 5549,Taurus_Diadem,Taurus Diadem,4,20,,300,,3,,0,0xFFFFFFFF,7,2,256,,70,1,535,{ bonus bDex,2; bonus bDelayRate,-2; bonus2 bSubEle,Ele_earth,5; if(getrefine()>6) { bonus bDex,1; bonus bMatkRate,1; } },{},{}
 5550,Taurus_Crown,Taurus Crown,4,20,,300,,3,,0,0xFFFFFFFF,7,2,256,,70,1,536,{ bonus bDex,2; bonus bDelayRate,-2; bonus2 bSubEle,Ele_earth,5; if(getrefine()>6) { bonus bDex,1; bonus bMatkRate,1; } },{},{}
 //5551,Holy_Egg_Hat,Holy Egg Hat,4,20,,0,,1,,0,0xFFFFFFFF,7,2,256,,0,1,537,{},{},{}
@@ -2945,7 +2945,7 @@
 //5763,Red_Bunny_Band,Red Bunny Band,4,0,,200,,4,,0,0xFFFFFFFF,7,2,256,,1,1,640,{ bonus bAgi,2; bonus bMdef,3; },{},{}
 //5765,Black_Tail_Ribbon,Black Tail Ribbon,4,20,,100,,0,,1,0xFFFFFFFF,7,2,256,,10,1,642,{ bonus bMdef,5; },{},{}
 //5766,Amistr_Cap,Amistr Cap,4,20,,500,,4,,0,0xFFFFFFFF,7,2,256,,50,1,643,{ bonus bVit,5; },{},{}
-//5767,Samurai_Mask,Samurai Mask,4,20,,300,,1,,0,0xFFFFFFFF,7,2,1,,50,0,644,{},{},{}
+5767,Samurai_Mask,Samurai Mask,4,20,,300,,1,,1,0xFFFFFFFF,7,2,1,,50,0,644,{ bonus bCritical,1; bonus bMdef,1; },{},{}
 //5768,Sakura_Coronet,Sakura Coronet,4,20,,800,,1,,1,0xFFFFFFFF,7,2,256,,1,1,645,{ bonus bMdef,3; },{},{}
 //5769,Gold_Angel_Sculpture,Gold Angel Sculpture,4,100,,0,,2,,0,0xFFFFFFFF,7,2,256,,70,0,646,{},{},{}
 5770,Splash_Hat,Splash Hat,4,20,,100,,3,,1,0xFFFFFFFF,7,2,256,,1,1,349,{ autobonus "{ sc_start SC_WINDWEAPON, 180000, 1; }", 3, 180000, BF_WEAPON, "{ specialeffect2 EF_ENHANCE; }"; },{},{}

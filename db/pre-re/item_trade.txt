@@ -717,7 +717,7 @@
 5420,73,100	// Mask Of Ifrit
 5421,73,100	// Ears Of Ifrit
 5462,457,100	// Spiked Scarf
-5463,457,100	// Rainbow Scarf
+5463,0,100	// Rainbow Scarf
 5502,457,100	// Necromancer's Hood
 5503,73,100	// Magic Rabit Hat
 5505,73,100	// Asara Fairy Hat
@@ -1502,7 +1502,7 @@
 5359,73,100	// Ship Captain Hat
 5360,73,100	// Hyuke's Black Cat Ears
 5361,73,100	// Gangster Scarf
-5362,73,100	// Ninja Scroll
+5362,0,100	// Ninja Scroll
 5371,73,100	// Judge Hat
 5383,73,100	// Hunter's Cap
 5387,73,100	// Neko Mimi Kafra
@@ -1775,7 +1775,7 @@
 5538,73,100	// Tucan Hat
 5539,73,100	// Jaguar Hat
 5547,73,100	// RJC Katusa Flower
-5548,73,100	// Scarlet Rose
+5548,0,100	// Scarlet Rose
 5557,73,100	// Wild Rose Hat
 5564,73,100	// Crown of Deceit
 5565,507,100	// Dragon Arhat Mask
