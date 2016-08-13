@@ -2567,7 +2567,7 @@
 5386,Ayam_,Ayam,4,0,,70,,7,,0,0xFFFFFFFF,7,2,256,,1,0,228,{ bonus bMdef,7; bonus bFlee,7; bonus2 bAddMonsterDropItem,12198,200; },{},{}
 5387,Neko_Mimi_Kafra,Neko Mimi Kafra,4,20,,200,,1,,1,0xFFFFFFFF,7,2,256,,30,1,392,{ bonus bMdef,5; },{},{}
 5388,Snake_Head,Snake Head Hat,4,20,,200,,1,,1,0xFFFFFFFF,7,2,256,,30,1,393,{ skill "TF_DOUBLE",5; bonus bDoubleRate,25; },{},{}
-5389,Angel_Spirit,Angel Spirit,4,20,,200,,0,,0,0xFFFFFFFF,7,2,512,,30,0,394,{ bonus bStr,2; bonus bHit,15; },{},{}
+5389,Angel_Spirit,Angel Spirit,4,20,,200,,0,,1,0xFFFFFFFF,7,2,512,,30,0,394,{ bonus bStr,2; bonus bHit,15; },{},{}
 5390,Santa_Hat_2,Frozen Twin Pompom,4,20,,100,,2,,0,0xFFFFFFFF,7,2,256,,0,1,395,{ bonus2 bResEff, Eff_Freeze, 3000; },{},{}
 5391,Toast_C,Toast,4,20,,0,,0,,0,0xFFFFFFFF,7,2,1,,0,0,188,{ bonus bMaxHP,100; bonus2 bAddMonsterDropItem,617,10; },{},{}
 5392,Louyang_Cap,Louyang NewYear Hat,4,20,,300,,3,,1,0xFFFFFFFF,7,2,256,,0,1,396,{ bonus bLuk,2; },{},{}
