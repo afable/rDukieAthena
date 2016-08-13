@@ -1745,7 +1745,7 @@
 5388,73,100	// Snake Head Hat
 5397,73,100	// Scuba Gear
 5401,73,100	// Black Frame Glasses
-5402,73,100	// Mischievous Fairy
+5402,0,100	// Mischievous Fairy
 5404,73,100	// Blue Ribbon
 5405,73,100	// Filir Hat
 5406,467,100	// Academy Freshman Hat

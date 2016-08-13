@@ -2580,7 +2580,7 @@
 5399,Mandragora_Cap,Mandragora Cap,4,20,,300,,1,,1,0x00CFFF80,2,2,256,,85,0,402,{ bonus bVit,3; bonus3 bAutoSpellWhenHit,"DC_SCREAM",5,30; },{},{}
 5400,Fox_Hat,Fox Hat,4,20,,200,,0,,0,0xFFFFFFFF,7,0,769,,0,0,403,{ bonus bLuk,1; },{},{}
 5401,Black_Glasses,Black Frame Glasses,4,20,,200,,1,,0,0xFFFFFFFF,7,2,512,,70,0,404,{ bonus bInt,1; bonus bMdef,2; bonus bUnbreakableHelm, 0; },{},{}
-5402,Mischievous_Fairy,Mischievous Fairy,4,10,,200,,1,,0,0xFFFFFFFF,7,2,512,,70,0,405,{ bonus bUnbreakableHelm, 0; bonus bFlee2, 3; },{},{}
+5402,Mischievous_Fairy,Mischievous Fairy,4,10,,200,,1,,1,0xFFFFFFFF,7,2,512,,70,0,405,{ bonus bUnbreakableHelm, 0; bonus bFlee2, 3; },{},{}
 5403,Fish_In_Mouth,Fish In Mouth,4,10,,200,,0,,0,0xFFFFFFFF,7,2,1,,30,0,406,{ bonus2 bAddMonsterDropItem,579,500; bonus2 bAddItemHealRate,579,25; },{},{}
 5404,Blue_Ribbon,Blue Ribbon,4,10,,100,,1,,1,0xFFFFFFFF,7,2,256,,45,1,407,{ bonus4 bAutoSpellWhenHit,"AC_CONCENTRATION",2,7,0; },{},{}
 5405,Filir_Hat,Filir Hat,4,10,,200,,0,,0,0xFFFFFFFF,7,2,256,,80,0,408,{ bonus bShortWeaponDamageReturn, 1; },{},{}
