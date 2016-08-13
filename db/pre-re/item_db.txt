@@ -2964,7 +2964,7 @@
 //5783,YellowBunny_Hairband,YellowBunny Hairband,4,20,,200,,0,,1,0xFFFFFFFF,7,2,256,,1,1,662,{ bonus bStr,1; bonus bInt,1; bonus bDex,2; },{},{}
 //5784,PinkBunny_Hairband,PinkBunny Hairband,4,20,,200,,0,,1,0xFFFFFFFF,7,2,256,,1,1,663,{ bonus bStr,1; bonus bInt,2; bonus bDex,1; },{},{}
 //5785,Green_Bunny_Hairband,Green Bunny Hairband,4,20,,200,,0,,1,0xFFFFFFFF,7,2,256,,1,1,664,{ bonus bStr,2; bonus bInt,1; bonus bDex,1; },{},{}
-5786,Ancient_Elven_Ear,Ancient Elven Ear,4,10,,200,,1,,0,0xFFFFFFFF,7,2,512,,1,0,665,{ bonus bLuk,1; },{},{}
+5786,Ancient_Elven_Ear,Ancient Elven Ear,4,10,,200,,1,,1,0xFFFFFFFF,7,2,512,,1,0,665,{ bonus bLuk,1; },{},{}
 //5787,Tha_Maero_Mask,Tha Maero Mask,4,20,,100,,0,,0,0xFFFFFFFF,7,2,513,,30,0,666,{ bonus bMdef,2; },{},{}
 5788,3D_Glasses,3D Glasses,4,20,,100,,1,,0,0xFFFFFFFF,7,2,512,,1,0,661,{},{},{}
 //5789,Thanatos_Mal_Mask,Thanatos Mal Mask,4,20,,100,,3,,0,0xFFFFFFFF,7,2,513,,30,0,667,{ bonus bVit,1; },{},{}

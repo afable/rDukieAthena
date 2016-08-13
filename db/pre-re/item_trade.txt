@@ -1551,7 +1551,7 @@
 5668,499,100	// Weird Pumpkin Hat
 5738,73,100	// Snowman Hat
 5741,499,100	// Eternal Egg Shell
-5786,475,100	// Ancient Elven Ear
+5786,0,100	// Ancient Elven Ear
 5796,507,100	// Cheer Scarf
 5797,507,100	// Cheer Scarf2
 5798,507,100	// Cheer Scarf3
