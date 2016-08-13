@@ -6612,6 +6612,7 @@ REPLACE INTO `item_db` VALUES (19505,'T_Cigarette','T Cigarette',4,0,NULL,0,NULL
 REPLACE INTO `item_db` VALUES (19506,'T_Valkyrie_Feather_Band','T Valkyrie Feather Band',4,0,NULL,0,NULL,0,NULL,0,0xFFFFFFFF,7,2,1024,NULL,0,1,300,NULL,NULL,NULL);
 REPLACE INTO `item_db` VALUES (19507,'Clear_Sun','Clear Sun',4,0,NULL,0,NULL,0,NULL,0,0xFFFFFFFF,7,2,1024,NULL,1,0,654,NULL,NULL,NULL);
 
-# Renewal Items
-REPLACE INTO `item_db` VALUES (18570,'Ancient_Gold_Deco','Ancient Gold Ornament',4,20,NULL,400,NULL,7,NULL,1,0xFFFFFFFE,63,2,256,NULL,'90',1,739,'if(BaseLevel >= 99) { bonus bAllStats,2; } if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief){ bonus2 bAddClass,Class_All,8; } if(BaseClass==Job_Mage||BaseClass==Job_Acolyte){ bonus bMatk,8; } if(BaseClass==Job_Archer){ bonus bDex,3; bonus bLongAtkRate,10; }',NULL,NULL);
+# Renewal/Custom Items
+REPLACE INTO `item_db` VALUES (18570,'Ancient_Gold_Deco','Ancient Gold Ornament',4,20,NULL,400,NULL,7,NULL,1,0xFFFFFFFE,63,2,256,NULL,90,1,739,'if(BaseLevel >= 99) { bonus bAllStats,2; } if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief){ bonus2 bAddClass,Class_All,8; } if(BaseClass==Job_Mage||BaseClass==Job_Acolyte){ bonus bMatk,8; } if(BaseClass==Job_Archer){ bonus bDex,3; bonus bLongAtkRate,10; }',NULL,NULL);
+REPLACE INTO `item_db` VALUES (2742,'Cat_Foot_Pin','Catfoot Pin',4,20,NULL,200,NULL,0,NULL,1,0xFFFFFFFF,7,2,136,NULL,0,0,0,'bonus bFlee,13; bonus bFlee2,9;',NULL,NULL);
 

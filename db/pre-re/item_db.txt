@@ -1469,8 +1469,8 @@
 2647,Nile_Rose,Nile Rose,4,2,,100,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bMaxHP,10; },{},{}
 2648,Morpheus's_Ring,Morpheus's Ring,4,30000,,100,,0,,0,0xFFFFFFFE,7,2,136,,33,0,0,{ bonus bInt,1; bonus bMaxSPrate,5; },{},{}
 2649,Morpheus's_Armlet,Morpheus's Bracelet,4,30000,,100,,0,,0,0xFFFFFFFE,7,2,136,,33,0,0,{ bonus bInt,1; bonus bMaxSPrate,5; },{},{}
-2650,Morrigane's_Belt,Morrigane's Belt,4,30000,,200,,0,,0,0xFFFFFFFE,7,2,136,,61,0,0,{ bonus bBaseAtk,5; bonus bCritical,3; },{},{}
-2651,Morrigane's_Pendant,Morrigane's Pendant,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,61,0,0,{ bonus bStr,2; bonus bCritical,3; },{},{}
+2650,Morrigane's_Belt,Morrigane's Belt,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,61,0,0,{ bonus bStr,5; bonus bBaseAtk,5; bonus bCritical,3; },{},{}
+2651,Morrigane's_Pendant,Morrigane's Pendant,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,61,0,0,{ bonus bLuk,9; bonus bFlee2,3; },{},{}
 2652,Cursed_Lucky_Brooch,Goddess of Fortune's Cursed Brooch,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,40,0,0,{ bonus bCritical,6; bonus2 bAddEff2,Eff_Curse,50; },{},{}
 2653,Sacrifice_Ring,Sacrifice Ring,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,90,0,0,{},{},{}
 2654,Shinobi's_Sash,Shinobi Sash,4,20000,,300,,1,,0,0x02021040,7,2,136,,30,0,0,{ bonus bStr,1; bonus bAgi,1; bonus bMdef,1; },{},{}
@@ -1562,6 +1562,7 @@
 2740,Rusty_Coin,Rusty Coin,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus2 bAddClass,Class_All,3; bonus bMatkRate,3; },{},{}
 2741,All_In_One_Ring,All In One Ring,4,20,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bAllStats,1; bonus bNoCastCancel,0; bonus bCastRate,10; skill "AL_HEAL",1; skill "AL_TELEPORT",1; },{},{}
 //2742,Lucky_Clip,Lucky Clip,4,0,,0,,0,,0,0xFFFFFFFF,7,2,136,,0,0,0,{},{},{}
+2742,Cat_Foot_Pin,Catfoot Pin,4,20,,200,,0,,1,0xFFFFFFFF,7,2,136,,0,0,0,{ bonus bFlee,13; bonus bFlee2,9; },{},{}
 2743,Angelic_Ring,Angelic Ring,4,20,,100,,0,,0,0x00CFFF80,2,2,136,,70,0,0,{ bonus bInt,2; bonus bDex,1; bonus bMdef,2; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AL_HEAL","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AM_POTIONPITCHER","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"PR_SANCTUARY","{ specialeffect2 EF_HEAL3; }"; },{},{}
 2744,Sprint_Ring,Sprint Ring,4,20,,100,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bCastrate,-10; bonus bDelayRate,-5; },{},{}
 2745,Pinguicula_Corsage,Pinguicula Corsage,4,20,,200,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bMdef,2; bonus bMaxSP,25; },{},{}
@@ -2623,7 +2624,7 @@
 5443,Status_Of_Baby_Angel,Statue Of Baby Angel,4,20,,600,,3,,1,0xFFFFFFFF,7,2,256,,70,1,444,{ bonus bMdef,2; bonus4 bAutoSpellWhenHit,"PR_STRECOVERY",1,20,0; },{},{}
 5444,Hair_Brush,Hair Brush,4,20,,100,,0,,0,0xFFFFFFFF,7,2,256,,0,1,445,{ bonus bCritical,6; },{},{}
 5445,Candy_Cane_In_The_Mouth,Candy Cane In Mouth,4,20,,100,,0,,0,0xFFFFFFFF,7,2,1,,0,0,446,{ bonus bMaxSP,5; },{},{}
-5446,Cat_Foot_Hairpin,Catfoot Hairpin,4,20,,200,,0,,1,0xFFFFFFFF,7,2,256,,0,1,447,{ bonus bFlee,5; bonus bFlee2,3; },{},{}
+5446,Cat_Foot_Hairpin,Catfoot Hairpin,4,20,,200,,0,,1,0xFFFFFFFF,7,2,256,,0,1,447,{ bonus bFlee,13; bonus bFlee2,9; },{},{}
 5447,Frog_Cap,Frog Hat,4,20,,500,,3,,0,0xFFFFFFFF,7,2,256,,70,1,448,{ bonus bMdef,1; bonus2 bAddRace,RC_Insect,12; bonus2 bMagicAddRace,RC_Insect,12; },{},{}
 5448,Solo_Play_Box1,Soloplay Box1,4,,,300,,0,,1,0xFFFFFFFF,7,2,769,,0,1,449,{},{},{}
 5449,Solo_Play_Box2,Soloplay Box2,4,,,300,,0,,1,0xFFFFFFFF,7,2,769,,0,1,450,{},{},{}
