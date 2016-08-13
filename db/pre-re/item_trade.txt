@@ -1506,7 +1506,7 @@
 5371,73,100	// Judge Hat
 5383,73,100	// Hunter's Cap
 5387,73,100	// Neko Mimi Kafra
-5389,73,100	// Angel Spirit
+5389,0,100	// Angel Spirit
 5395,73,100	// Striped Hat
 5403,73,100	// Fish In Mouth
 5428,475,100	// RWC Anniversary Bread Envelope
