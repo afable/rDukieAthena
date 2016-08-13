@@ -2245,7 +2245,7 @@
 5065,Fish_On_Head,Blue Fish,4,20,,500,,2,,0,0xFFFFFFFF,7,2,256,,50,1,149,{ bonus2 bAddRace,RC_Fish,10; },{},{}
 5066,Horn_Of_Succubus,Succubus Horn,4,20,,800,,4,,0,0xFFFFFFFE,7,2,256,,70,1,150,{ bonus bInt,1; bonus bMdef,10; },{},{}
 5067,Sombrero,Sombrero,4,20,,350,,4,,1,0xFFFFFFFE,7,2,256,,0,1,151,{ bonus bDex,getrefine()*2; bonus bAgi,getrefine()*2; bonus bLuk,getrefine()*4; bonus bMdef,getrefine(); bonus bAspdRate,getrefine(); },{},{}
-5068,Ear_Of_Devil's_Wing,Evil Wing Ears,4,20,,100,,1,,0,0xFFFFFFFF,7,2,512,,70,0,152,{ bonus bStr,1; },{},{}
+5068,Ear_Of_Devil's_Wing,Evil Wing Ears,4,20,,100,,1,,1,0xFFFFFFFF,7,2,512,,70,0,152,{ bonus bStr,1; },{},{}
 5069,Mask_Of_Fox,Kitsune Mask,4,20,,300,,1,,0,0xFFFFFFFE,7,2,256,,0,1,153,{ bonus bAgi,1; bonus bLuk,1; },{},{}
 5070,Headband_Of_Power,Hot-blooded Headband,4,20,,100,,1,,0,0xFFFFFFFE,7,2,256,,0,1,154,{ bonus bStr,2; },{},{}
 5071,Indian_Headband,Indian Headband,4,20,,200,,1,,0,0xFFFFFFFE,7,2,256,,0,1,155,{ bonus bDex,1; },{},{}
