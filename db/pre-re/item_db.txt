@@ -1205,7 +1205,7 @@
 2292,Welding_Mask,Welding Mask,4,20,,300,,2,,0,0x00040420,7,2,513,,50,0,79,{ bonus2 bSubEle,Ele_Fire,10; },{},{}
 2293,Pretend_Murdered,Pretend Murdered,4,20,,100,,1,,0,0xFFFFFFFF,7,2,256,,0,0,80,{},{},{}
 2294,Star_Dust,Stellar,4,20,,100,,1,,0,0xFFFFFFFF,7,2,256,,0,1,81,{},{},{}
-2295,Blinker,Blinker,4,1500,,100,,0,,0,0xFFFFFFFE,7,2,512,,0,0,82,{ bonus2 bResEff,Eff_Blind,10000; },{},{}
+2295,Blinker,Blinker,4,1500,,100,,0,,1,0xFFFFFFFE,7,2,512,,0,0,82,{ bonus2 bResEff,Eff_Blind,10000; },{},{}
 2296,Binoculars,Binoculars,4,20,,100,,1,,0,0x00080808,7,2,512,,50,0,83,{ bonus bDex,1; },{},{}
 2297,Goblini_Mask,Goblin Mask,4,20,,100,,1,,0,0xFFFFFFFE,7,2,513,,0,0,84,{},{},{}
 2298,Green_Feeler,Green Feeler,4,20,,100,,2,,0,0xFFFFFFFF,7,2,256,,0,0,85,{},{},{}
