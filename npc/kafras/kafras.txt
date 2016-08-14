@@ -166,7 +166,7 @@ morocc,156,97,4	script	Kafra Employee::kaf_morocc	113,{
 	mes "you with convenient services.";
 	mes "How may I be of assistance?";
 	callfunc "F_Kafra",5,0,0,60,930;
-	savepoint "morocc",156,46;
+	savepoint "morocc",156,93;
 	callfunc "F_KafEnd",0,1,"in the city of Morroc";
 }
 
