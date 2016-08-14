@@ -1763,7 +1763,7 @@
 4125,Deviace_Card,Deviace Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddRace,RC_DemiHuman,7; bonus2 bAddRace,RC_Player,7; bonus2 bAddRace,RC_Brute,7; bonus2 bAddRace,RC_Plant,7; bonus2 bAddRace,RC_Insect,7; },{},{}
 4126,Minorous_Card,Minorous Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddSize,Size_Large,15; bonus bBaseAtk,5; },{},{}
 4127,Nightmare_Card,Nightmare Card,6,20,,10,,,,,,,,769,,,,,{ bonus2 bResEff,Eff_Sleep,10000; bonus bAgi,1; },{},{}
-4128,Golden_Bug_Card,Golden Thief Bug Card,6,20,,10,,,,,,,,32,,,,,{ bonus bNoMagicDamage,100; bonus bUseSPrate,100; },{},{}
+4128,Golden_Bug_Card,Golden Thief Bug Card,6,20,,10,,,,,,,,16,,,,,{ bonus bNoMagicDamage,100; bonus bUseSPrate,100; },{},{}
 4129,Baphomet__Card,Bapho Jr. Card,6,20,,10,,,,,,,,4,,,,,{ bonus bAgi,3; bonus bCritical,1; },{},{}
 4130,Scorpion_King_Card,Scorpion King Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddEle,Ele_Undead,20; },{},{}
 4131,Moonlight_Flower_Card,Moonlight Flower Card,6,20,,10,,,,,,,,64,,,,,{ bonus bDex,5; bonus bMaxHPRate,25; bonus bSpeedRate,25; },{},{}
@@ -1959,7 +1959,7 @@
 4321,Hylozoist_Card,Hylozoist Card,6,20,,10,,,,,,,,136,,,,,{ bonus bClassChange,100; },{},{}
 4322,High_Orc_Card,High Orc Card,6,20,,10,,,,,,,,32,,,,,{ bonus bDef,1; bonus bShortWeaponDamageReturn,5; },{},{}
 4323,Garm_Baby_Card,Hatii Babe Card,6,20,,10,,,,,,,,2,,,,,{ bonus3 bAutoSpell,"MG_FROSTDIVER",3,50; },{},{}
-4324,Garm_Card,Hatii Card,6,20,,10,,,,,,,,16,,,,,{ bonus2 bAddEffWhenHit,Eff_Freeze,5000; },{},{}
+4324,Garm_Card,Hatii Card,6,20,,10,,,,,,,,16,,,,,{ bonus2 bAddEffWhenHit,Eff_Freeze,5000; bonus bDef,10; },{},{}
 4325,Harpy_Card,Harpy Card,6,20,,10,,,,,,,,4,,,,,{ bonus2 bSubEle,Ele_Neutral,15; bonus2 bSkillAtk,"MG_NAPALMBEAT",5; },{},{}
 4326,See_Otter_Card,Sea-Otter Card,6,20,,10,,,,,,,,136,,,,,{ bonus2 bAddItemGroupHealRate,IG_Fish,50; bonus3 bAddMonsterDropItem,551,RC_Fish,300; bonus3 bAddMonsterDropItem,544,RC_Fish,300; },{},{}
 4327,Blood_Butterfly_Card,Bloody Butterfly Card,6,20,,10,,,,,,,,136,,,,,{ bonus bCastrate,30; bonus bNoCastCancel,0; bonus2 bSkillAtk,"MG_FIREWALL",5; },{},{}
