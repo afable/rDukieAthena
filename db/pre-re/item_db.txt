@@ -1381,7 +1381,7 @@
 2514,Pauldron,Pauldron,4,20,,800,,5,,1,0x000654E2,7,2,4,,80,1,0,{},{},{}
 2515,Wing_Of_Eagle,Eagle Wing,4,20000,,300,,1,,1,0x00810204,7,2,4,,85,1,0,{},{},{}
 2516,Falcon_Robe,Falcon Muffler,4,30000,,400,,3,,1,0xFFFFFFFE,7,2,4,,65,1,0,{ bonus bFlee,15; bonus bFlee2,5; },{},{}
-2517,Vali's_Manteau,Vali's Manteau,4,30000,,600,,4,,0,0xFFFFFFFE,7,2,4,,65,1,0,{ bonus2 bSubEle,Ele_Neutral,15; },{},{}
+2517,Vali's_Manteau,Vali's Manteau,4,30000,,600,,4,,1,0xFFFFFFFE,7,2,4,,65,1,0,{ bonus2 bSubEle,Ele_Neutral,15; },{},{}
 2518,Morpheus's_Shawl,Morpheus's Shawl,4,30000,,600,,3,,0,0xFFFFFFFE,7,2,4,,33,1,0,{ bonus bMaxSPrate,10; bonus bMdef,3; },{},{}
 2519,Morrigane's_Manteau,Morrigane's Manteau,4,30000,,600,,3,,1,0xFFFFFFFE,7,2,4,,61,1,0,{ bonus bLuk,2; bonus bFlee2,8; },{},{}
 2520,Goibne's_Shoulder_Arms,Goibne's Spaulders,4,30000,,700,,3,,1,0xFFFFFFFE,7,2,4,,54,1,0,{ bonus bLongAtkDef,10; bonus bMdef,2; bonus bVit,1; },{},{}
