@@ -6583,3 +6583,9 @@
 19505,T_Cigarette,T Cigarette,4,0,,0,,0,,0,0xFFFFFFFF,7,2,4096,,0,0,54,{},{},{}
 19506,T_Valkyrie_Feather_Band,T Valkyrie Feather Band,4,0,,0,,0,,0,0xFFFFFFFF,7,2,1024,,0,1,300,{},{},{}
 19507,Clear_Sun,Clear Sun,4,0,,0,,0,,0,0xFFFFFFFF,7,2,1024,,1,0,654,{},{},{}
+
+// Custom Headgears
+26000,Invisible_Hat,Invisible Hat,4,20,,10,,7,,1,0xFFFFFFFF,7,2,256,,1,1,0,{ bonus bAgi,8+getrefine()*8; bonus bMdef,7+getrefine(); },{},{}
+26001,Invisible_Glasses,Invisible Glasses,4,20,,10,,2,,1,0xFFFFFFFF,7,2,512,,1,1,0,{ bonus bAgi,1; bonus bLuk,1; },{},{}
+26002,Invisible_Mask,Invisible Mask,4,20,,10,,1,,1,0xFFFFFFFF,7,2,1,,1,1,0,{ bonus bStr,1; bonus bDex,1; },{},{}
+

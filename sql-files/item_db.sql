@@ -6615,4 +6615,8 @@ REPLACE INTO `item_db` VALUES (19507,'Clear_Sun','Clear Sun',4,0,NULL,0,NULL,0,N
 # Renewal/Custom Items
 REPLACE INTO `item_db` VALUES (18570,'Ancient_Gold_Deco','Ancient Gold Ornament',4,20,NULL,400,NULL,7,NULL,1,0xFFFFFFFE,63,2,256,NULL,90,1,739,'if(BaseLevel >= 99) { bonus bAllStats,2; } if(BaseClass==Job_Swordman||BaseClass==Job_Merchant||BaseClass==Job_Thief){ bonus2 bAddClass,Class_All,8; } if(BaseClass==Job_Mage||BaseClass==Job_Acolyte){ bonus bMatk,8; } if(BaseClass==Job_Archer){ bonus bDex,3; bonus bLongAtkRate,10; }',NULL,NULL);
 REPLACE INTO `item_db` VALUES (2742,'Cat_Foot_Pin','Catfoot Pin',4,20,NULL,200,NULL,0,NULL,1,0xFFFFFFFF,7,2,136,NULL,0,0,0,'bonus bFlee,13; bonus bFlee2,9;',NULL,NULL);
+REPLACE INTO `item_db` VALUES (26000,'Invisible_Hat','Invisible Hat',4,20,NULL,10,NULL,7,NULL,1,0xFFFFFFFF,7,2,256,NULL,1,1,0,'bonus bAgi,8+getrefine()*8; bonus bMdef,7+getrefine();',NULL,NULL);
+REPLACE INTO `item_db` VALUES (26001,'Invisible_Glasses','Invisible Glasses',4,20,NULL,10,NULL,2,NULL,1,0xFFFFFFFF,7,2,512,NULL,1,1,0,'bonus bAgi,1; bonus bLuk,1;',NULL,NULL);
+REPLACE INTO `item_db` VALUES (26002,'Invisible_Mask','Invisible Mask',4,20,NULL,10,NULL,1,NULL,1,0xFFFFFFFF,7,2,1,NULL,1,1,0,'bonus bStr,1; bonus bDex,1;',NULL,NULL);
+
 
