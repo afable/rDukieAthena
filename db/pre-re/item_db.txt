@@ -1639,7 +1639,7 @@
 4001,Poring_Card,Poring Card,6,20,,10,,,,,,,,64,,,,,{ bonus bLuk,6; bonus bFlee2,3; },{},{}
 4002,Fabre_Card,Fabre Card,6,20,,10,,,,,,,,2,,,,,{ bonus bVit,1; bonus bMaxHP,100; },{},{}
 4003,Pupa_Card,Pupa Card,6,20,,10,,,,,,,,16,,,,,{ bonus bMaxHP,700; },{},{}
-4004,Drops_Card,Drops Card,6,20,,10,,,,,,,,2,,,,,{ bonus bDex,1; bonus bHit,3; },{},{}
+4004,Drops_Card,Drops Card,6,20,,10,,,,,,,,2,,,,,{ bonus bDex,5; bonus bHit,1; },{},{}
 4005,Poring__Card,Santa Poring Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddEle,Ele_Dark,20; },{},{}
 4006,Lunatic_Card,Lunatic Card,6,20,,10,,,,,,,,769,,,,,{ bonus bLuk,3; bonus bCritical,3; bonus bFlee2,3; },{},{}
 4007,Pecopeco_Egg_Card,Peco Peco Egg Card,6,20,,10,,,,,,,,2,,,,,{ bonus2 bAddRace,RC_Formless,20; },{},{}
