@@ -1537,7 +1537,7 @@
 5549,73,100	// Taurus Diadem
 5550,73,100	// Taurus Crown
 5554,73,100	// Octopus Hat
-5555,73,100	// Leaf Cat Hat
+5555,0,100	// Leaf Cat Hat
 5567,73,100	// Bright Fury
 5569,73,100	// Gemini Diadem
 5570,73,100	// Gemini Crown
