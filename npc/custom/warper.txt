@@ -174,7 +174,7 @@ T26: Go("morocc",156,93);
 T27: Go("moscovia",223,184);
 T28: Go("nameless_n",256,215);
 T29: Go("niflheim",202,174);
-T30: Go("payon",179,100);
+T30: Go("payon",170,100);
 T31: Go("rachel",130,110);
 T32: Go("splendide",201,147);
 T33: Go("thor_camp",246,68);
