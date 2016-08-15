@@ -21,7 +21,7 @@
 //= 1.7 Renewal script update. [Euphy]
 //============================================================
 
-prt_fild08,175,374,3	script	Bard#brising	51,{
+prt_fild08,175,372,3	script	Bard#brising	51,{
 	cutin "god_nelluad01",2;
 	if ($God2 >= $@god_check1 && $God3 < $@god_check2) {
 		if (god_brising > 49) {
