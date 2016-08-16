@@ -101,7 +101,7 @@
 2608:2711,{ bonus2 bSkillAtk,"AL_HEAL",50; bonus2 bSkillAtk,"PR_MAGNUS",30; bonus bSPrecovRate,9; }
 2608:2786,{ bonus2 bSkillAtk,"AL_HEAL",50; bonus2 bSkillAtk,"PR_MAGNUS",30; bonus bSPrecovRate,9; }
 2620:2746,{ bonus2 bAddSize,Size_Medium,8; bonus bAspdRate,getequiprefinerycnt(EQI_HAND_R)/2; }
-2620:2747,{ bonus2 bAddSize,Size_Large,8; bonus bHit,getequiprefinerycnt(EQI_HAND_R)/2; bonus bCastrate,-getequiprefinerycnt(EQI_HAND_R)/2; }
+2620:2747,{ bonus2 bAddSize,Size_Large,8; bonus bFlee,getequiprefinerycnt(EQI_HAND_R)/2; bonus bFlee2,getequiprefinerycnt(EQI_HAND_R)/2; }
 2626:2677,{ bonus2 bSkillAtk,"AL_HEAL",50; bonus2 bSkillAtk,"PR_MAGNUS",30; bonus bSPrecovRate,9; }
 2626:2711,{ bonus2 bSkillAtk,"AL_HEAL",50; bonus2 bSkillAtk,"PR_MAGNUS",30; bonus bSPrecovRate,9; }
 2626:2786,{ bonus2 bSkillAtk,"AL_HEAL",50; bonus2 bSkillAtk,"PR_MAGNUS",30; bonus bSPrecovRate,9; }

@@ -1439,7 +1439,7 @@
 2617,Mitten_Of_Presbyter,Celebrant's Mitten,4,2,,100,,1,,1,0xFFFFFFFE,7,2,136,,35,0,0,{ bonus bInt,1; },{},{}
 2618,Matyr's_Flea_Guard,Matyr's Leash,4,2,,100,,1,,0,0xFFFFFFFE,7,2,136,,35,0,0,{ bonus bAgi,1; },{},{}
 2619,Thimble_Of_Archer,Bow Thimble,4,10000,,100,,0,,0,0x00080808,7,2,136,,65,0,0,{ bonus bLongAtkRate,3; },{},{}
-2620,Ring_Of_Rogue,Rogue's Treasure,4,10000,,100,,0,,0,0x02021040,7,2,136,,70,0,0,{ if(readparam(bStr)>=90){ bonus bHit,10; bonus bFlee,10; } if(readparam(bAgi)>=90){ bonus bBaseAtk,10; bonus bCritical,10; } },{},{}
+2620,Ring_Of_Rogue,Rogue's Treasure,4,10000,,100,,0,,1,0x02021040,7,2,136,,70,0,0,{ if(readparam(bStr)>=90){ bonus bHit,10; bonus bBaseAtk,10; } if(readparam(bAgi)>=90){ bonus bFlee,10; bonus bFlee2,10; } },{},{}
 2621,Ring_,Ring,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,90,0,0,{ bonus bStr,1; },{},{}
 2622,Earring_,Earring,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,90,0,0,{ bonus bInt,1; },{},{}
 2623,Necklace_,Necklace,4,30000,,200,,0,,1,0xFFFFFFFE,7,2,136,,90,0,0,{ bonus bVit,1; },{},{}
@@ -1566,7 +1566,7 @@
 2743,Angelic_Ring,Angelic Ring,4,20,,100,,0,,0,0x00CFFF80,2,2,136,,70,0,0,{ bonus bInt,2; bonus bDex,1; bonus bMdef,2; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AL_HEAL","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"AM_POTIONPITCHER","{ specialeffect2 EF_HEAL3; }"; autobonus3 "{ bonus bHealPower,20; }",100,3000,"PR_SANCTUARY","{ specialeffect2 EF_HEAL3; }"; },{},{}
 2744,Sprint_Ring,Sprint Ring,4,20,,100,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bCastrate,-10; bonus bDelayRate,-5; },{},{}
 2745,Pinguicula_Corsage,Pinguicula Corsage,4,20,,200,,0,,1,0x00CFFF80,2,2,136,,70,0,0,{ bonus bMdef,2; bonus bMaxSP,25; },{},{}
-2746,Cold_Heart,Cold Heart,4,20,,100,,1,,0,0x00001000,2,2,136,,80,0,0,{ bonus bAgi,3; },{},{}
+2746,Cold_Heart,Cold Heart,4,20,,100,,1,,1,0x00001000,2,2,136,,80,0,0,{ bonus bAgi,6; },{},{}
 2747,Black_Cat,Black Cat,4,20,,100,,1,,1,0xFFFFFFFF,2,2,136,,80,0,0,{ bonus bAgi,3; bonus bLuk,6; bonus bFlee2,9; },{},{}
 2748,Cursed_Star,Cursed Star,4,20,,200,,0,,0,0x00080808,2,2,136,,84,0,0,{ bonus bMdef,3; bonus bDex,2; bonus bLuk,-1; bonus2 bHPLossRate,50,10000; bonus3 bAddEff,Eff_Curse,200,ATF_WEAPON|ATF_LONG|ATF_TARGET; },{},{ heal -300,0; }
 2749,Linen_Glove,Linen Glove,4,20,,120,,1,,1,0x00CFFF80,2,2,136,,90,0,0,{ bonus bMdef,2; bonus bAgi,2; bonus bDex,1; },{},{}
