@@ -359,13 +359,13 @@
 
 // Episode 12
 1638,507,100	// Staff Of Healing
-2438,467,100	// Paw Of Cat
-2720,499,100	// Medal of Honor
-2721,499,100	// Medal of Honor
-2722,499,100	// Medal of Honor
-2723,499,100	// Medal of Honor
-2724,499,100	// Medal of Honor
-2725,499,100	// Medal of Honor
+2438,0,100	// Paw Of Cat
+2720,0,100	// Medal of Swordman
+2721,0,100	// Medal of Thief
+2722,0,100	// Medal of Acolyte
+2723,0,100	// Medal of Mage
+2724,0,100	// Medal of Archer
+2725,0,100	// Medal of Merchant
 2738,507,100	// Shiny Coin
 2739,507,100	// Ordinary Coin
 2740,507,100	// Rusty Coin
