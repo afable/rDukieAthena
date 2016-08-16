@@ -1482,7 +1482,7 @@
 2660,Vesper_Core02,Vesper Core 02,4,20,,100,,1,,0,0x00CFFF80,2,2,136,,1,0,0,{ bonus bMdef,3; bonus bStr,3; bonus bBaseAtk,10; },{},{}
 2661,Vesper_Core03,Vesper Core 03,4,20,,100,,1,,0,0x00CFFF80,2,2,136,,1,0,0,{ bonus bMdef,3; bonus bAgi,3; bonus bFlee,5; },{},{}
 2662,Vesper_Core04,Vesper Core 04,4,20,,100,,1,,0,0x00CFFF80,2,2,136,,1,0,0,{ bonus bMdef,3; bonus bDex,3; bonus bHit,10; },{},{}
-2663,Gauntlet_Of_Accuracy,Gauntlet of Hit,4,20,,900,,0,,0,0xFFFFFFFF,7,2,136,,75,0,0,{ bonus bHit,15; bonus bStr,1; },{},{}
+2663,Gauntlet_Of_Accuracy,Gauntlet of Hit,4,20,,900,,1,,1,0xFFFFFFFF,7,2,136,,75,0,0,{ bonus bHit,25; bonus bStr,5; },{},{}
 2664,Scarf_Belt,Belcarf,4,20,,200,,0,,0,0xFFFFFFFE,7,2,136,,75,0,0,{ bonus bDex,2; bonus bInt,1; },{},{}
 2665,Ring_Of_Exorcism,Exorcising Ring,4,20,,500,,0,,0,0x00008110,7,2,136,,60,0,0,{ bonus bMdef,1; bonus2 bExpAddRace,RC_Undead,5; bonus2 bExpAddRace,RC_Demon,5; },{},{}
 2666,Lamp_Of_Hope,Lantern of Hope,4,20,,100,,0,,0,0xFFFFFFFF,7,2,136,,1,0,0,{ bonus bStr,2; bonus2 bResEff,Eff_Blind,1000; },{},{}
