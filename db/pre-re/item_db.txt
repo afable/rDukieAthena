@@ -1449,7 +1449,7 @@
 2627,Belt,Belt,4,20000,,1200,,0,,1,0xFFFFFFFF,7,2,136,,25,0,0,{},{},{}
 2628,Novice_Armlet,Novice Armlet,4,400,,200,,0,,1,0x00000001,7,2,136,,1,0,0,{},{},{}
 2629,Magingiorde,Megingjard,4,20,,8000,,2,,0,0xFFFFFFFF,7,2,136,,94,0,0,{ bonus bStr,40; bonus bMdef,7; },{},{}
-2630,Brysinggamen,Brisingamen,4,20,,1500,,1,,0,0xFFFFFFFF,7,2,136,,94,0,0,{ bonus bStr,6; bonus bAgi,6; bonus bVit,6; bonus bInt,6; bonus bLuk,10; bonus bMdef,5; },{},{}
+2630,Brysinggamen,Brisingamen,4,20,,1500,,1,,1,0xFFFFFFFF,7,2,136,,94,0,0,{ bonus bStr,6; bonus bAgi,6; bonus bVit,6; bonus bInt,6; bonus bLuk,10; bonus bMdef,5; },{},{}
 2631,First_Age_Ring,Celebration Ring,4,1,,10,,0,,0,0xFFFFFFFF,7,2,136,,1,0,0,{},{},{}
 //2632,Korean_Trinket,Korean Trinket,4,125000,,100,,1,,0,0xFFFFFFFE,7,2,136,,65,0,0,{ bonus bVit,1; bonus bDex,1; bonus bLuk,1; },{},{}
 //2633,Jade_Ring,Jade Ring,4,204000,,100,,0,,0,0xFFFFFFFE,7,2,136,,80,0,0,{ bonus bStr,2; bonus bInt,1; },{},{}
